@@ -6,7 +6,7 @@
     <description>Recent content in DataWave: Collaborative Gravity Wave Research on The DataWave Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post-Doc Position at Goethe Universität Frankfurt</title>
       <link>http://datawaveproject.github.io/jobs/goethe_postdoc/</link>
@@ -85,6 +85,16 @@
 &lt;p&gt; A 2-year post doctoral position is opening at the “Laboratoire de Meteorologie Dynamique” to work on the parameterization of atmospheric gravity waves in the IPSL Climate model. The candidate will develop off-line versions of the operational subgrid scale parameterizations of gravity waves that are related to mountains (Lott and Miller 1997), convection (Lott and Guez 2013) and fronts (de la Camara and Lott 2016) and guide them with analysis field from  ECMWF.
 &lt;/p&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>PI highlight: Ed Gerber</title>
+      <link>http://datawaveproject.github.io/publications/ed_gerber_highlight/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/ed_gerber_highlight/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Datawave co-PI Ed Gerber focuses on atmospheric dynamics and idealized modeling, and is deeply interested in global circulation and how weather systems respond to warming. Gerber is co-head of Datawave Task 5: Gravity Wave Impacts in climate projections, and outside the project he considers the effect of heat waves and precipitation changes on wind structures in the stratosphere. Within Datawave, they specifically address atmospheric gravity waves through data-driven parameterizations, which involves implementation of machine learning applied to parameterizations of various scales, &amp;ldquo;from city-sized grid blocks to larger regions represented by multiple grid blocks&amp;rdquo;. He’s interested in coupling these parameterizations with climate modeling to develop more reliable climate predictions.&lt;/p&gt;</description>
     </item>
     
     <item>
