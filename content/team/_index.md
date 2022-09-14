@@ -305,7 +305,7 @@ description: "Meet the Team"
 
 {{< Profile_Creator  
   imgpath="/images/team/Marshall_Borrus.jpg"
-  name="Marshall Borrus"
+  name="Niku Darafshi"
   title="Project Admin + Research Assistant"
   role="Administrator for project and research assistant"
   website="https://eddy.stanford.edu/people"
