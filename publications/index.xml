@@ -8,26 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="http://datawaveproject.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PI highlight: Ed Gerber</title>
-      <link>http://datawaveproject.github.io/publications/press/ed_gerber_highlight/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://datawaveproject.github.io/publications/press/ed_gerber_highlight/</guid>
-      <description>&lt;h4 id=&#34;written-by-lucy-gagnon&#34;&gt;Written by Lucy Gagnon&lt;/h4&gt;
-&lt;p&gt;Datawave co-PI Ed Gerber focuses on atmospheric dynamics and idealized modeling, and is deeply interested in global circulation and how weather systems respond to warming. Gerber is co-head of Datawave Task 5: Gravity Wave Impacts in climate projections, and outside the project he considers the effect of heat waves and precipitation changes on wind structures in the stratosphere. Within Datawave, they specifically address atmospheric gravity waves through data-driven parameterizations, which involves implementation of machine learning applied to parameterizations of various scales, &amp;ldquo;from city-sized grid blocks to larger regions represented by multiple grid blocks&amp;rdquo;. He’s interested in coupling these parameterizations with climate modeling to develop more reliable climate predictions.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PI highlight: Aditi Sheshadri</title>
-      <link>http://datawaveproject.github.io/publications/press/aditi_sheshadri_highlight/</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://datawaveproject.github.io/publications/press/aditi_sheshadri_highlight/</guid>
-      <description>&lt;h4 id=&#34;written-by-meaghan-boehm&#34;&gt;Written by Meaghan Boehm&lt;/h4&gt;
-&lt;p&gt;Aditi Sheshadri, based at Stanford University, is DataWave’s lead PI. Prior to DataWave, Sheshadri studied atmospheric dynamics involving the jetstream and the polar vortex. Using this background, Sheshadri took on the role of Coordinating PI and Head of Task 1: Loon Observations and Gravity Wave Momentum Flux Estimates. She works with her group to analyze previously untouched high resolution Loon balloon data with the goal of integrating the data into climate model’s parameterizations of gravity waves.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Observed and Modeled Mountain Waves from the Surface to the Mesosphere Near the Drake Passage</title>
       <link>http://datawaveproject.github.io/publications/papers/modeled_mountain_waves_kruse/</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
