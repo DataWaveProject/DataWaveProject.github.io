@@ -6,7 +6,7 @@
     <description>Recent content in DataWave: Collaborative Gravity Wave Research on The DataWave Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post-Doc Position at Goethe Universität Frankfurt</title>
       <link>http://datawaveproject.github.io/jobs/goethe_postdoc/</link>
@@ -85,6 +85,58 @@
 &lt;p&gt; A 2-year post doctoral position is opening at the “Laboratoire de Meteorologie Dynamique” to work on the parameterization of atmospheric gravity waves in the IPSL Climate model. The candidate will develop off-line versions of the operational subgrid scale parameterizations of gravity waves that are related to mountains (Lott and Miller 1997), convection (Lott and Guez 2013) and fronts (de la Camara and Lott 2016) and guide them with analysis field from  ECMWF.
 &lt;/p&gt;
 &lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Do Nudging Tendencies Depend on the Nudging Timescale Chosen in Atmospheric Models?</title>
+      <link>http://datawaveproject.github.io/publications/papers/nudging_kruse/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/nudging_kruse/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Christopher Kruse&lt;/strong&gt;&lt;/em&gt;, Julio Bacmeister, Colin Zarzycki, Vincent Larson and Katherine Thayer-Calder&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2022MS003024&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Nudging is a ubiquitous capability of numerical weather and climate models that is widely used in a variety of applications (e.g. crude data assimilation, “intelligent” interpolation between analysis times, constraining flow in tracer advection/diffusion simulations). Here, the focus is on the momentum nudging tendencies themselves, rather than the atmospheric state that results from application of the method. The initial intent was to interpret these tendencies as a quantitative estimate of model error (net parameterization error in particular). However, it was found that nudging tendencies depend strongly on the nudging time scale chosen, which is the primary result presented here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Calibration and Uncertainty Quantification of Gravity Wave Parameterization in an Intermediate Complexity Climate Model </title>
+      <link>http://datawaveproject.github.io/publications/papers/calibration_uncertainty_mansfield/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/calibration_uncertainty_mansfield/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Laura Mansfield&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1002/essoar.10511598.1&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;The drag due to breaking atmospheric gravity waves plays a leading order role in driving the middle atmosphere circulation, but as their horizontal wavelength ranges from tens to thousands of kilometers, part of their spectrum must be parameterized in climate models. Gravity wave parameterizations prescribe a source spectrum of waves in the lower atmosphere and allow these to propagate upwards until they either dissipate or break, where they deposit drag on the large-scale flow. These parameterizations are a source of uncertainty in climate modeling which is generally not quantified. Here, we explore the uncertainty associated with a non-orographic gravity wave parameterization in a global climate model of intermediate complexity, using the Calibrate, Emulate and Sample (CES) method.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Gravity Wave Parameterization Generalizes to Capture the QBO and Response to Increased CO2</title>
+      <link>http://datawaveproject.github.io/publications/papers/ml_qbo_espinosa/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/ml_qbo_espinosa/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Zachary Espinosa&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;, Gerald Cain, &lt;em&gt;&lt;strong&gt;Edwin Gerber&lt;/strong&gt;&lt;/em&gt;, and Kevin DallaSanta&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2022GL098174&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;We present single-column gravity wave parameterizations (GWPs) that use machine learning to emulate non-orographic gravity wave (GW) drag and demonstrate their ability to generalize out-of-sample.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Discovery of interpretable structural model errors by combining Bayesian sparse regression and data assimilation: A chaotic Kuramoto-Sivashinsky test case</title>
+      <link>http://datawaveproject.github.io/publications/papers/interpretable_model_errors_mojgani/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/interpretable_model_errors_mojgani/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;Rambod Mojgani, &lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1063/5.0091282&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Models of many engineering and natural systems are imperfect. The discrepancy between the mathematical representations of a true physical system and its imperfect model is called the model error. These model errors can lead to substantial differences between the numerical solutions of the model and the state of the system, particularly in those involving nonlinear, multi-scale phenomena. Thus, there is increasing interest in reducing model errors, particularly by leveraging the rapidly growing observational data to understand their physics and sources.&lt;/p&gt;</description>
     </item>
     
     <item>
