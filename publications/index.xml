@@ -34,6 +34,32 @@
     </item>
     
     <item>
+      <title>Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning</title>
+      <link>http://datawaveproject.github.io/publications/papers/stable_guan/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/stable_guan/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;Yifei Guan, &lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, Adam Subel, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jcp.2022.111090&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;There is a growing interest in developing data-driven subgrid-scale (SGS) models for large-eddy simulation (LES) using machine learning (ML). In a priori (offline) tests, some recent studies have found ML-based data-driven SGS models that are trained on high-fidelity data (e.g., from direct numerical simulation, DNS) to outperform baseline physics-based models and accurately capture the inter-scale transfers, both forward (diffusion) and backscatter. While promising, instabilities in a posteriori (online) tests and inabilities to generalize to a different flow (e.g., with a higher Reynolds number, Re) remain as major obstacles in broadening the applications of such data-driven SGS models. For example, many of the same aforementioned studies have found instabilities that required often ad-hoc remedies to stabilize the LES at the expense of reducing accuracy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Long-term stability and generalization of observationally-constrained stochastic data-driven models for geophysical turbulence</title>
+      <link>http://datawaveproject.github.io/publications/papers/long_term_stability_chattopadyay/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/long_term_stability_chattopadyay/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, Jaideep Pathak, Ebrahim Nabizadeh, Wahid Bhimji, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2205.04601&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Recent years have seen a surge in interest in building deep learning-based fully data-driven models for weather prediction. Such deep learning models if trained on observations can mitigate certain biases in current state-of-the-art weather models, some of which stem from inaccurate representation of subgrid-scale processes. However, these data-driven models, being over-parameterized, require a lot of training data which may not be available from reanalysis (observational data) products. Moreover, an accurate, noise-free, initial condition to start forecasting with a data-driven weather model is not available in realistic scenarios. Finally, deterministic data-driven forecasting models suffer from issues with long-term stability and unphysical climate drift, which makes these data-driven models unsuitable for computing climate statistics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Machine Learning Gravity Wave Parameterization Generalizes to Capture the QBO and Response to Increased CO2</title>
       <link>http://datawaveproject.github.io/publications/papers/ml_qbo_espinosa/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
@@ -109,19 +135,6 @@
 &lt;p&gt;&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03365418/&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
 &lt;p&gt;The boundary layer theory for non-hydrostatic mountain waves presented in Part II is extended to include upward propagating gravity waves and trapped lee waves. To do so, the background wind with constant shear used in Part II is smoothly curved and become constant above a &amp;ldquo;boundary-layer&amp;rdquo; height which is much larger than the inner layer scale.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Closed-form discovery of structural errors in models of chaotic systems by integrating Bayesian sparse regression and data assimilation</title>
-      <link>http://datawaveproject.github.io/publications/papers/ashesh_pedram_bayesian/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://datawaveproject.github.io/publications/papers/ashesh_pedram_bayesian/</guid>
-      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
-&lt;p&gt;Rambod Mojgani, &lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2110.00546&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
-&lt;p&gt;Models used for many important engineering and natural systems are imperfect. The discrepancy between the mathematical representations of a true physical system and its imperfect model is called the model error. These model errors can lead to substantial difference between the numerical solutions of the model and the observations of the system, particularly in those involving nonlinear, multi-scale phenomena. Thus, there is substantial interest in reducing model errors, particularly through understanding their physics and sources and leveraging the rapid growth of observational data. Here we introduce a framework named MEDIDA: Model Error Discovery with Interpretability and Data Assimilation.&lt;/p&gt;</description>
     </item>
     
     <item>
