@@ -6,7 +6,24 @@
     <description>Recent content in DataWave: Collaborative Gravity Wave Research on The DataWave Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD and PostDoc at Rice University</title>
+      <link>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</guid>
+      <description>&lt;div&gt;
+&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Rice_Square.png&#34; alt=&#34;University Logo&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;
+&lt;h2&gt; Advisor: Pedram Hassanzadeh &lt;/h2&gt;                                           
+&lt;!-- ![logo](/Jobs/images/Rice_Square.png) --&gt;
+&lt;a href=&#34;http://datawaveproject.github.io/pdfs/Openings2022_Rice[96].pdf&#34;&gt;PDF Here&lt;/a&gt;
+  &lt;p&gt; The &lt;a href=&#34;http://pedram.rice.edu/&#34;&gt;Rice University Environmental Fluid Dynamics Group&lt;/a&gt; has multiple postdoc and PhD positions in the following two topics (and at their intersection):&lt;br&gt;  
+    1) Applications of machine learning (ML) to improve the modeling and prediction of turbulent flows, atmospheric processes, climate change, and weather extremes.&lt;br&gt;  
+    2) Understanding the dynamics and future changes of the extratropical, large-scale atmospheric circulation variability, with a particular focus on blocking events and annular modes. &lt;!--This project is part of two multi-disciplinary collaborative initiatives involving several US and international teams: &lt;a href=&#34;https://datawaveproject.github.io/&#34;&gt;DataWave&lt;/a&gt; and &lt;a href=&#34;https://cssi-gws.github.io/&#34;&gt;CSSI-GW&lt;/a&gt;.--&gt; &lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
     <item>
       <title>Post-Doc Position at Goethe Universität Frankfurt</title>
       <link>http://datawaveproject.github.io/jobs/goethe_postdoc/</link>
@@ -25,22 +42,7 @@
     </item>
     
     <item>
-      <title>PhD and PostDoc at Rice University</title>
-      <link>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</guid>
-      <description>&lt;div&gt;
-&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Rice_Square.png&#34; alt=&#34;University Logo&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;
-&lt;h2&gt; Advisor: Pedram Hassanzadeh &lt;/h2&gt;                                           
-&lt;!-- ![logo](/Jobs/images/Rice_Square.png) --&gt;
-&lt;a href=&#34;https://datawaveproject.github.io/jobs/Rice_Ad.pdf&#34;&gt;PDF Here&lt;/a&gt;
-  &lt;p&gt; The &lt;a href=&#34;http://pedram.rice.edu/&#34;&gt;Rice University Environmental Fluid Dynamics Group&lt;/a&gt; has one postdoc and one PhD position to work on applications of machine learning (ML) to improve the modeling and prediction of atmospheric processes, climate variability, and weather extremes. One topic of particular interest is developing new subgrid-scale parameterizations for atmospheric gravity waves by leveraging high-resolution simulations, observational data, and novel ML techniques. This project is part of two multi-disciplinary collaborative initiatives involving several US and international teams: &lt;a href=&#34;https://datawaveproject.github.io/&#34;&gt;DataWave&lt;/a&gt; and &lt;a href=&#34;https://cssi-gws.github.io/&#34;&gt;CSSI-GW&lt;/a&gt;. &lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>PhD Position at Stanford University School of Earth</title>
+      <title>[Filled] PhD Position at Stanford University School of Earth</title>
       <link>http://datawaveproject.github.io/jobs/stanford_phd/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
