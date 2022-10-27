@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="http://datawaveproject.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Calibration and Uncertainty Quantification of a Gravity Wave Parameterization: A Case Study of the Quasi-Biennial Oscillation in an Intermediate Complexity Climate Model </title>
+      <link>http://datawaveproject.github.io/publications/papers/calibration_uncertainty_mansfield/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/calibration_uncertainty_mansfield/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Laura Mansfield&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2022MS003245&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;The drag due to breaking atmospheric gravity waves plays a leading order role in driving the middle atmosphere circulation, but as their horizontal wavelength ranges from tens to thousands of kilometers, part of their spectrum must be parameterized in climate models. Gravity wave parameterizations prescribe a source spectrum of waves in the lower atmosphere and allow these to propagate upwards until they either dissipate or break, where they deposit drag on the large-scale flow. These parameterizations are a source of uncertainty in climate modeling which is generally not quantified. Here, we explore the uncertainty associated with a non-orographic gravity wave parameterization given an assumed parameterization structure within a global climate model of intermediate complexity, using the Calibrate, Emulate and Sample (CES) method.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Do Nudging Tendencies Depend on the Nudging Timescale Chosen in Atmospheric Models?</title>
       <link>http://datawaveproject.github.io/publications/papers/nudging_kruse/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
@@ -18,19 +31,6 @@
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2022MS003024&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
 &lt;p&gt;Nudging is a ubiquitous capability of numerical weather and climate models that is widely used in a variety of applications (e.g. crude data assimilation, “intelligent” interpolation between analysis times, constraining flow in tracer advection/diffusion simulations). Here, the focus is on the momentum nudging tendencies themselves, rather than the atmospheric state that results from application of the method. The initial intent was to interpret these tendencies as a quantitative estimate of model error (net parameterization error in particular). However, it was found that nudging tendencies depend strongly on the nudging time scale chosen, which is the primary result presented here.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Calibration and Uncertainty Quantification of Gravity Wave Parameterization in an Intermediate Complexity Climate Model </title>
-      <link>http://datawaveproject.github.io/publications/papers/calibration_uncertainty_mansfield/</link>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://datawaveproject.github.io/publications/papers/calibration_uncertainty_mansfield/</guid>
-      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Laura Mansfield&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1002/essoar.10511598.1&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
-&lt;p&gt;The drag due to breaking atmospheric gravity waves plays a leading order role in driving the middle atmosphere circulation, but as their horizontal wavelength ranges from tens to thousands of kilometers, part of their spectrum must be parameterized in climate models. Gravity wave parameterizations prescribe a source spectrum of waves in the lower atmosphere and allow these to propagate upwards until they either dissipate or break, where they deposit drag on the large-scale flow. These parameterizations are a source of uncertainty in climate modeling which is generally not quantified. Here, we explore the uncertainty associated with a non-orographic gravity wave parameterization in a global climate model of intermediate complexity, using the Calibrate, Emulate and Sample (CES) method.&lt;/p&gt;</description>
     </item>
     
     <item>
