@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning | The DataWave Project</title>
+    <title>Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES | The DataWave Project</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content=" ">
     <meta name="generator" content="Hugo 0.110.0">
@@ -39,18 +39,18 @@
 
     
     
-    <meta property="og:title" content="Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning" />
+    <meta property="og:title" content="Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES" />
 <meta property="og:description" content=" " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://datawaveproject.github.io/publications/papers/stable_guan/" /><meta property="article:section" content="Publications" />
-<meta property="article:published_time" content="2022-06-01T00:00:00+00:00" />
-<meta property="article:modified_time" content="2022-06-01T00:00:00+00:00" />
-<meta itemprop="name" content="Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning">
-<meta itemprop="description" content=" "><meta itemprop="datePublished" content="2022-06-01T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2022-06-01T00:00:00+00:00" />
-<meta itemprop="wordCount" content="271">
+<meta property="og:url" content="http://datawaveproject.github.io/publications/papers/learning_physics_chattopadyay/" /><meta property="article:section" content="Publications" />
+<meta property="article:published_time" content="2022-11-14T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-11-14T00:00:00+00:00" />
+<meta itemprop="name" content="Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES">
+<meta itemprop="description" content=" "><meta itemprop="datePublished" content="2022-11-14T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-11-14T00:00:00+00:00" />
+<meta itemprop="wordCount" content="284">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning"/>
+<meta name="twitter:title" content="Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES"/>
 <meta name="twitter:description" content=" "/>
 
 	
@@ -64,7 +64,7 @@
 
   
   
-  <header class="cover bg-top" style="background-image: url('http://datawaveproject.github.io/images/Data_Images/Guan_Pub.png');">
+  <header class="cover bg-top" style="background-image: url('http://datawaveproject.github.io/images/Data_Images/Chattopadhyay_learning.png');">
     <div class="pb3-m pb6-l bg-black-60">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -162,20 +162,20 @@
           
         PUBLICATIONS
       </aside>
-      <h1 class="f1 athelas mt3 mb1">Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning</h1>
+      <h1 class="f1 athelas mt3 mb1">Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES</h1>
       
       
-      <time class="f6 mv4 dib tracked" datetime="2022-06-01T00:00:00Z">June 1, 2022</time>
+      <time class="f6 mv4 dib tracked" datetime="2022-11-14T00:00:00Z">November 14, 2022</time>
 
       
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h2 id="authors">Authors:</h2>
-<p>Yifei Guan, <em><strong>Ashesh Chattopadhyay</strong></em>, Adam Subel, and <em><strong>Pedram Hassanzadeh</strong></em></p>
-<p><a href="https://doi.org/10.1016/j.jcp.2022.111090">Read the full paper here</a></p>
+<p>Yifei Guan, Adam Subel, <em><strong>Ashesh Chattopadhyay</strong></em>, and <em><strong>Pedram Hassanzadeh</strong></em></p>
+<p><a href="https://doi.org/10.1016/j.physd.2022.133568">Read the full paper here</a></p>
 <h2 id="abstract">Abstract:</h2>
-<p>There is a growing interest in developing data-driven subgrid-scale (SGS) models for large-eddy simulation (LES) using machine learning (ML). In a priori (offline) tests, some recent studies have found ML-based data-driven SGS models that are trained on high-fidelity data (e.g., from direct numerical simulation, DNS) to outperform baseline physics-based models and accurately capture the inter-scale transfers, both forward (diffusion) and backscatter. While promising, instabilities in a posteriori (online) tests and inabilities to generalize to a different flow (e.g., with a higher Reynolds number, Re) remain as major obstacles in broadening the applications of such data-driven SGS models. For example, many of the same aforementioned studies have found instabilities that required often ad-hoc remedies to stabilize the LES at the expense of reducing accuracy.</p>
-<p>Here, using 2D decaying turbulence as the testbed, we show that deep convolutional neural networks (CNNs) can accurately predict the SGS forcing terms and the inter-scale transfers in a priori tests, and if trained with enough samples, lead to stable and accurate a posteriori LES-CNN. Further analysis attributes aforementioned instabilities to the disproportionately lower accuracy of the CNNs in capturing backscattering (anti-diffusion) when the training set is small. We also show that transfer learning, which involves re-training the CNN with a small amount of data (e.g., 1%) from the new flow, enables accurate and stable a posteriori LES-CNN for flows with 16× higher Re (as well as higher grid resolution if needed). These results show the promise of CNNs with transfer learning to provide stable, accurate, and generalizable LES for practical use.</p><ul class="pa0">
+<p>We demonstrate how incorporating physics constraints into convolutional neural networks (CNNs) enables learning subgrid-scale (SGS) closures for stable and accurate large-eddy simulations (LES) in the small-data regime (i.e., when the availability of high-quality training data is limited). Using several setups of forced 2D turbulence as the testbeds, we examine the a priori and a posteriori performance of three methods for incorporating physics: (1) data augmentation (DA), (2) CNN with group convolutions (GCNN), and (3) loss functions that enforce a global enstrophy-transfer conservation (EnsCon).</p>
+<p>While the data-driven closures from physics-agnostic CNNs trained in the big-data regime are accurate and stable, and outperform dynamic Smagorinsky (DSMAG) closures, their performances substantially deteriorate when these CNNs are trained with 40x fewer samples (the small-data regime). An example based on a vortex dipole demonstrates that the physics-agnostic CNN cannot account for never-seen-before samples’ rotational equivariance (symmetry), an important property of the SGS term. This shows a major shortcoming of the physics-agnostic CNN in the small-data regime. We show that CNN with DA and GCNN address this issue and each produce accurate and stable data-driven closures in the small-data regime. Despite its simplicity, DA, which adds appropriately rotated samples to the training set, performs as well or in some cases even better than GCNN, which uses a sophisticated equivariance-preserving architecture. EnsCon, which combines structural modeling with aspect of functional modeling, also produces accurate and stable closures in the small-data regime. Overall, GCNN+EnsCon, which combines these two physics constraints, shows the best a posteriori performance in this regime. These results illustrate the power of physics-constrained learning in the small-data regime for accurate and stable LES.</p><ul class="pa0">
   
 </ul>
 <div class="mt6 instapaper_ignoref">

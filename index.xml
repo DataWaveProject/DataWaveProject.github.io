@@ -6,7 +6,7 @@
     <description>Recent content in DataWave: Collaborative Gravity Wave Research on The DataWave Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD and PostDoc at Rice University</title>
       <link>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</link>
@@ -57,6 +57,45 @@
     </item>
     
     <item>
+      <title>Explaining the physics of transfer learning in data-driven turbulence modeling</title>
+      <link>http://datawaveproject.github.io/publications/papers/explaining_turbulence_chattopadyay/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/explaining_turbulence_chattopadyay/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;Adam Subel, Yifei Guan, &lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1093/pnasnexus/pgad015&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Transfer learning (TL), which enables neural networks (NNs) to generalize out-of-distribution via targeted re-training, is becoming a powerful tool in scientific machine learning (ML) applications such as weather/climate prediction and turbulence modeling. Effective TL requires knowing 1) how to re-train NNs? and 2) what physics are learned during TL? Here, we present novel analyses and a framework addressing (1)-(2) for a broad range of multi-scale, nonlinear, dynamical systems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Long-term stability and generalization of observationally-constrained stochastic data-driven models for geophysical turbulence</title>
+      <link>http://datawaveproject.github.io/publications/papers/long_term_stability_chattopadyay/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/long_term_stability_chattopadyay/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, Jaideep Pathak, Ebrahim Nabizadeh, Wahid Bhimji, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1017/eds.2022.30&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Recent years have seen a surge in interest in building deep learning-based fully data-driven models for weather prediction. Such deep learning models, if trained on observations can mitigate certain biases in current state-of-the-art weather models, some of which stem from inaccurate representation of subgrid-scale processes. However, these data-driven models, being over-parameterized, require a lot of training data which may not be available from reanalysis (observational data) products. Moreover, an accurate, noise-free, initial condition to start forecasting with a data-driven weather model is not available in realistic scenarios. Finally, deterministic data-driven forecasting models suffer from issues with long-term stability and unphysical climate drift, which makes these data-driven models unsuitable for computing climate statistics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning physics-constrained subgrid-scale closures in the small-data regime for stable and accurate LES</title>
+      <link>http://datawaveproject.github.io/publications/papers/learning_physics_chattopadyay/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/learning_physics_chattopadyay/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;Yifei Guan, Adam Subel, &lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.physd.2022.133568&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;We demonstrate how incorporating physics constraints into convolutional neural networks (CNNs) enables learning subgrid-scale (SGS) closures for stable and accurate large-eddy simulations (LES) in the small-data regime (i.e., when the availability of high-quality training data is limited). Using several setups of forced 2D turbulence as the testbeds, we examine the a priori and a posteriori performance of three methods for incorporating physics: (1) data augmentation (DA), (2) CNN with group convolutions (GCNN), and (3) loss functions that enforce a global enstrophy-transfer conservation (EnsCon).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Calibration and Uncertainty Quantification of a Gravity Wave Parameterization: A Case Study of the Quasi-Biennial Oscillation in an Intermediate Complexity Climate Model </title>
       <link>http://datawaveproject.github.io/publications/papers/calibration_uncertainty_mansfield/</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
@@ -93,19 +132,6 @@
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jcp.2022.111090&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
 &lt;p&gt;There is a growing interest in developing data-driven subgrid-scale (SGS) models for large-eddy simulation (LES) using machine learning (ML). In a priori (offline) tests, some recent studies have found ML-based data-driven SGS models that are trained on high-fidelity data (e.g., from direct numerical simulation, DNS) to outperform baseline physics-based models and accurately capture the inter-scale transfers, both forward (diffusion) and backscatter. While promising, instabilities in a posteriori (online) tests and inabilities to generalize to a different flow (e.g., with a higher Reynolds number, Re) remain as major obstacles in broadening the applications of such data-driven SGS models. For example, many of the same aforementioned studies have found instabilities that required often ad-hoc remedies to stabilize the LES at the expense of reducing accuracy.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Long-term stability and generalization of observationally-constrained stochastic data-driven models for geophysical turbulence</title>
-      <link>http://datawaveproject.github.io/publications/papers/long_term_stability_chattopadyay/</link>
-      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://datawaveproject.github.io/publications/papers/long_term_stability_chattopadyay/</guid>
-      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, Jaideep Pathak, Ebrahim Nabizadeh, Wahid Bhimji, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2205.04601&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
-&lt;p&gt;Recent years have seen a surge in interest in building deep learning-based fully data-driven models for weather prediction. Such deep learning models if trained on observations can mitigate certain biases in current state-of-the-art weather models, some of which stem from inaccurate representation of subgrid-scale processes. However, these data-driven models, being over-parameterized, require a lot of training data which may not be available from reanalysis (observational data) products. Moreover, an accurate, noise-free, initial condition to start forecasting with a data-driven weather model is not available in realistic scenarios. Finally, deterministic data-driven forecasting models suffer from issues with long-term stability and unphysical climate drift, which makes these data-driven models unsuitable for computing climate statistics.&lt;/p&gt;</description>
     </item>
     
     <item>
