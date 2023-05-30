@@ -7,7 +7,7 @@
     <title>Do Nudging Tendencies Depend on the Nudging Timescale Chosen in Atmospheric Models? | The DataWave Project</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content=" ">
-    <meta name="generator" content="Hugo 0.111.2">
+    <meta name="generator" content="Hugo 0.112.5">
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -48,7 +48,7 @@
 <meta itemprop="name" content="Do Nudging Tendencies Depend on the Nudging Timescale Chosen in Atmospheric Models?">
 <meta itemprop="description" content=" "><meta itemprop="datePublished" content="2022-08-04T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2022-08-04T00:00:00+00:00" />
-<meta itemprop="wordCount" content="315">
+<meta itemprop="wordCount" content="428">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Do Nudging Tendencies Depend on the Nudging Timescale Chosen in Atmospheric Models?"/>
 <meta name="twitter:description" content=" "/>
@@ -86,25 +86,25 @@
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/team/" title="Team page">
+            <a class="hover-white no-underline white-90" href="/Team/" title="Team page">
               Team
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/jobs/" title="Jobs page">
+            <a class="hover-white no-underline white-90" href="/Jobs/" title="Jobs page">
               Jobs
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/background/" title="Background page">
+            <a class="hover-white no-underline white-90" href="/Background/" title="Background page">
               Background
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/publications/" title="Publications page">
+            <a class="hover-white no-underline white-90" href="/Publications/" title="Publications page">
               Publications
             </a>
           </li>
@@ -176,7 +176,9 @@
 <h2 id="abstract">Abstract:</h2>
 <p>Nudging is a ubiquitous capability of numerical weather and climate models that is widely used in a variety of applications (e.g. crude data assimilation, “intelligent” interpolation between analysis times, constraining flow in tracer advection/diffusion simulations). Here, the focus is on the momentum nudging tendencies themselves, rather than the atmospheric state that results from application of the method. The initial intent was to interpret these tendencies as a quantitative estimate of model error (net parameterization error in particular). However, it was found that nudging tendencies depend strongly on the nudging time scale chosen, which is the primary result presented here.</p>
 <p>Reducing the nudging time scale reduces the difference between the model state and the target state, but much less so than the reduction in the nudging time scale, resulting in increased nudging tendencies. The dynamical core, in particular, appears to increasingly oppose nudging tendencies as the nudging time scale is reduced. A heuristic analysis suggests such a result should be expected as long as the state the model is trying to achieve differs from the target state, regardless of the type of target state (e.g. a reanalysis, another model). These results suggest nudging tendencies cannot be quantitatively interpreted as model error. Still, two experiments aimed at seeing how nudging can identify a withheld parameterization suggest nudging tendencies do contain some information on model errors and/or missing physical processes and still might be useful in model development and tuning, even if only qualitatively.</p>
-<h2 id="key-points">Key Points</h2>
+<h2 id="plain-language-summary">Plain Language Summary:</h2>
+<p>Nudging is a common feature of weather and climate models used to guide the model&rsquo;s atmospheric state along some evolving target state, often an analysis of the observed atmospheric evolution in the past. Here, an initial attempt was made to interpret the nudging tendencies as model error. However, it was learned that these nudging tendencies change when the nudging time scale is changed, largely due to the model&rsquo;s dynamical core opposing the effect of nudging by trying to achieve its desired state. The overall conclusion is that these nudging tendencies cannot be quantitatively interpreted as model error, but still have some use in identifying model issues, even if only qualitatively.</p>
+<h2 id="key-points">Key Points:</h2>
 <ol>
 <li>Nudging tendencies, or nudging forces per unit mass, depend strongly on the nudging time scale chosen (i.e. are ∝ τ−1 )</li>
 <li>Nudging tendencies cannot be quantitatively interpreted as errors in total (dynamics + physics) model forces on the atmospheric fluid</li>

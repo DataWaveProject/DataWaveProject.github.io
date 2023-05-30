@@ -8,6 +8,19 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="http://datawaveproject.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Quantifying 3D Gravity Wave Drag in a Library of Tropical Convection-Permitting Simulations for Data-Driven Parameterizations</title>
+      <link>http://datawaveproject.github.io/publications/papers/quantifying_drag_qiang/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/quantifying_drag_qiang/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Qiang Sun&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;M. Joan Alexander&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;Christopher Kruse&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2022MS003585&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Atmospheric gravity waves (GWs) span a broad range of length scales. As a result, the unresolved and under-resolved GWs have to be represented using a sub-grid scale (SGS) parameterization in general circulation models (GCMs). In recent years, machine learning (ML) techniques have emerged as novel methods for SGS modeling of climate processes. In the widely used approach of supervised (offline) learning, the true representation of the SGS terms have to be properly extracted from high-fidelity data (e.g., GW-resolving simulations). However, this is a non-trivial task, and the quality of the ML-based parameterization significantly hinges on the quality of these SGS terms. Here, we compare three methods to extract 3D GW fluxes and the resulting drag (Gravity Wave Drag [GWD]) from high-resolution simulations: Helmholtz decomposition, and spatial filtering to compute the Reynolds stress and the full SGS stress.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Explaining the physics of transfer learning in data-driven turbulence modeling</title>
       <link>http://datawaveproject.github.io/publications/papers/explaining_turbulence_chattopadyay/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>

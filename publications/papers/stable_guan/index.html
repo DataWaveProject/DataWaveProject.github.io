@@ -7,7 +7,7 @@
     <title>Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning | The DataWave Project</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content=" ">
-    <meta name="generator" content="Hugo 0.111.2">
+    <meta name="generator" content="Hugo 0.112.5">
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -48,7 +48,7 @@
 <meta itemprop="name" content="Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning">
 <meta itemprop="description" content=" "><meta itemprop="datePublished" content="2022-06-01T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2022-06-01T00:00:00+00:00" />
-<meta itemprop="wordCount" content="271">
+<meta itemprop="wordCount" content="326">
 <meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Stable a posteriori LES of 2D turbulence using convolutional neural networks: Backscattering analysis and generalization to higher Re via transfer learning"/>
 <meta name="twitter:description" content=" "/>
@@ -86,25 +86,25 @@
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/team/" title="Team page">
+            <a class="hover-white no-underline white-90" href="/Team/" title="Team page">
               Team
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/jobs/" title="Jobs page">
+            <a class="hover-white no-underline white-90" href="/Jobs/" title="Jobs page">
               Jobs
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/background/" title="Background page">
+            <a class="hover-white no-underline white-90" href="/Background/" title="Background page">
               Background
             </a>
           </li>
           
           <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="/publications/" title="Publications page">
+            <a class="hover-white no-underline white-90" href="/Publications/" title="Publications page">
               Publications
             </a>
           </li>
@@ -175,7 +175,15 @@
 <p><a href="https://doi.org/10.1016/j.jcp.2022.111090">Read the full paper here</a></p>
 <h2 id="abstract">Abstract:</h2>
 <p>There is a growing interest in developing data-driven subgrid-scale (SGS) models for large-eddy simulation (LES) using machine learning (ML). In a priori (offline) tests, some recent studies have found ML-based data-driven SGS models that are trained on high-fidelity data (e.g., from direct numerical simulation, DNS) to outperform baseline physics-based models and accurately capture the inter-scale transfers, both forward (diffusion) and backscatter. While promising, instabilities in a posteriori (online) tests and inabilities to generalize to a different flow (e.g., with a higher Reynolds number, Re) remain as major obstacles in broadening the applications of such data-driven SGS models. For example, many of the same aforementioned studies have found instabilities that required often ad-hoc remedies to stabilize the LES at the expense of reducing accuracy.</p>
-<p>Here, using 2D decaying turbulence as the testbed, we show that deep convolutional neural networks (CNNs) can accurately predict the SGS forcing terms and the inter-scale transfers in a priori tests, and if trained with enough samples, lead to stable and accurate a posteriori LES-CNN. Further analysis attributes aforementioned instabilities to the disproportionately lower accuracy of the CNNs in capturing backscattering (anti-diffusion) when the training set is small. We also show that transfer learning, which involves re-training the CNN with a small amount of data (e.g., 1%) from the new flow, enables accurate and stable a posteriori LES-CNN for flows with 16× higher Re (as well as higher grid resolution if needed). These results show the promise of CNNs with transfer learning to provide stable, accurate, and generalizable LES for practical use.</p><ul class="pa0">
+<p>Here, using 2D decaying turbulence as the testbed, we show that deep convolutional neural networks (CNNs) can accurately predict the SGS forcing terms and the inter-scale transfers in a priori tests, and if trained with enough samples, lead to stable and accurate a posteriori LES-CNN. Further analysis attributes aforementioned instabilities to the disproportionately lower accuracy of the CNNs in capturing backscattering (anti-diffusion) when the training set is small. We also show that transfer learning, which involves re-training the CNN with a small amount of data (e.g., 1%) from the new flow, enables accurate and stable a posteriori LES-CNN for flows with 16× higher Re (as well as higher grid resolution if needed). These results show the promise of CNNs with transfer learning to provide stable, accurate, and generalizable LES for practical use.</p>
+<h2 id="highlights">Highlights:</h2>
+<ol>
+<li>Better subgrid-scale (SGS) models for large-eddy simulation (LES) are needed.</li>
+<li>A deep learning-based, non-local data-driven SGS model is introduced.</li>
+<li>This SGS model accurately captures the effect of small-scale structures.</li>
+<li>Transfer learning enables the SGS model to extrapolate to more turbulent flows.</li>
+<li>Resulting LES model is stable and generalizable with accuracy superior to baseline LES.</li>
+</ol><ul class="pa0">
   
 </ul>
 <div class="mt6 instapaper_ignoref">
