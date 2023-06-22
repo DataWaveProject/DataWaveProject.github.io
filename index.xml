@@ -6,7 +6,7 @@
     <description>Recent content in DataWave: Collaborative Gravity Wave Research on The DataWave Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD and PostDoc at Rice University</title>
       <link>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</link>
@@ -37,6 +37,22 @@
 &lt;!-- &lt;a href=&#34;http://datawaveproject.github.io/pdfs/PhD_Ulrich.pdf&#34;&gt;PDF Here&lt;/a&gt; --&gt;
 
 &lt;p&gt;There is an opening for a PhD student to join the research group &lt;i&gt;Atmospheric dynamics, variability, and change&lt;/i&gt; at the &lt;a href=&#34;https://eddy.stanford.edu/&#34;&gt;Stanford Doerr School of Sustainability.&lt;/a&gt; to be filled as soon as possible. The focus of the appointment will be to contribute to the DataWave project and the parameterization of gravity waves. &lt;a href=&#34;https://earth.stanford.edu/ess/admissions&#34;&gt;More information can be found here.&lt;/a&gt; &lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Blog Post (coming soon)</title>
+      <link>http://datawaveproject.github.io/blog/first_blog/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/blog/first_blog/</guid>
+      <description>&lt;div&gt;
+&lt;img src=&#34;http://datawaveproject.github.io/Blog/images/GCM.png&#34; alt=&#34;image&#34; style=&#34;width:50%;height:50%&#34;&gt;
+&lt;h4&gt; Subtitle if necessary &lt;/h4&gt;       
+&lt;!--  --&gt;
+
+&lt;p&gt; Where the main body of the blog will go.
+&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     
