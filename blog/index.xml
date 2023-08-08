@@ -6,7 +6,20 @@
     <description>Recent content on The DataWave Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Library of High-Resolution Gravity Wave Simulations</title>
+      <link>http://datawaveproject.github.io/blog/qiang_warf/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/blog/qiang_warf/</guid>
+      <description>&lt;div&gt;
+&lt;h3&gt; How we plan to use it to develop data-driven parametierizations for climate models. &lt;/h3&gt;     
+&lt;p&gt; Climate models, also known as General Circulation Models (GCMs), serve as vital tools for understanding and predicting the complexities of Earth&#39;s climate system. These models play a crucial role in assessing the impact of human activities on the environment and informing climate change mitigation and adaptation strategies.
+&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
     <item>
       <title>What it’s like to fly through a gravity wave</title>
       <link>http://datawaveproject.github.io/blog/isa_balloon/</link>

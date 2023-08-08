@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>A Library of High-Resolution Gravity Wave Simulations | The DataWave Project</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="
+ How we plan to use it to develop data-driven parametierizations for climate models.      
+ Climate models, also known as General Circulation Models (GCMs), serve as vital tools for understanding and predicting the complexities of Earth&#39;s climate system. These models play a crucial role in assessing the impact of human activities on the environment and informing climate change mitigation and adaptation strategies.
+
+">
+    <meta name="google-site-verification" content="rnyRL5-16e-sCYI_9VioNwAbf1PbFAhhqgdOUYLHD0U" />
+    
+    <meta name="keywords" content="Datawave, gravity waves, machine learning, vesri, schmidt futures, atmosphere, atmospheric modeling, stratospheric balloons, loon, stateole" />
+    <meta name="generator" content="Hugo 0.117.0">
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    
+
+  
+  
+    <link rel="stylesheet" href="/ananke/dist/main.css_5c99d70a7725bacd4c701e995b969fea.css" >
+  
+
+
+
+
+    
+      
+<link rel="shortcut icon" href="/favicon-32x32.png" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+    
+
+    
+    
+    <meta property="og:title" content="A Library of High-Resolution Gravity Wave Simulations" />
+<meta property="og:description" content="
+ How we plan to use it to develop data-driven parametierizations for climate models.      
+ Climate models, also known as General Circulation Models (GCMs), serve as vital tools for understanding and predicting the complexities of Earth&#39;s climate system. These models play a crucial role in assessing the impact of human activities on the environment and informing climate change mitigation and adaptation strategies.
+
+" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://datawaveproject.github.io/blog/qiang_warf/" /><meta property="article:section" content="Blog" />
+<meta property="article:published_time" content="2023-08-04T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-08-04T00:00:00+00:00" />
+<meta itemprop="name" content="A Library of High-Resolution Gravity Wave Simulations">
+<meta itemprop="description" content="
+ How we plan to use it to develop data-driven parametierizations for climate models.      
+ Climate models, also known as General Circulation Models (GCMs), serve as vital tools for understanding and predicting the complexities of Earth&#39;s climate system. These models play a crucial role in assessing the impact of human activities on the environment and informing climate change mitigation and adaptation strategies.
+
+"><meta itemprop="datePublished" content="2023-08-04T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-08-04T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1357">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="A Library of High-Resolution Gravity Wave Simulations"/>
+<meta name="twitter:description" content="
+ How we plan to use it to develop data-driven parametierizations for climate models.      
+ Climate models, also known as General Circulation Models (GCMs), serve as vital tools for understanding and predicting the complexities of Earth&#39;s climate system. These models play a crucial role in assessing the impact of human activities on the environment and informing climate change mitigation and adaptation strategies.
+
+"/>
+
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-76NXT956MJ', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+	
+  </head>
+  <body class="ma0 avenir bg-near-white production">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        <img src="/images/logo/banner_final_white.png" class="w100 mw5-ns" alt="The DataWave Project" />
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/" title="Home page">
+              Home
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/team/" title="Team page">
+              Team
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/jobs/" title="Jobs page">
+              Jobs
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/background/" title="Background page">
+              Background
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/publications/" title="Publications page">
+              Publications
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/data/" title="Data page">
+              Data
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<a href="https://twitter.com/DataWave_VESRI" target="_blank" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+  <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a>
+<a href="https://github.com/DataWaveProject" target="_blank" class="link-transition github link dib z-999 pt3 pt0-l mr1" title="Github link" rel="noopener" aria-label="follow on Github——Opens in a new window">
+  <svg  height="32px"  style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+
+  <article class="flex-l flex-wrap justify-between medium center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        
+      </aside>
+      <h1 class="f1 athelas mt3 mb1">A Library of High-Resolution Gravity Wave Simulations</h1>
+      
+      <p class="tracked">
+          By <strong>
+          
+              Qiang Sun
+          
+          </strong>
+      </p>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2023-08-04T00:00:00Z">August 4, 2023</time>
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><div>
+<h3> How we plan to use it to develop data-driven parametierizations for climate models. </h3>     
+<p> Climate models, also known as General Circulation Models (GCMs), serve as vital tools for understanding and predicting the complexities of Earth's climate system. These models play a crucial role in assessing the impact of human activities on the environment and informing climate change mitigation and adaptation strategies.
+</p>
+</div>
+
+
+<div>
+Despite their significance, climate models still face uncertainties, especially when it comes to parameterizing sub-grid scale processes [1-3]. These processes occur at scales smaller than what traditional climate models can resolve and include phenomena like cloud formation, radiation, gravity waves, and turbulence (Fig. 1).
+</p>
+
+<img src="/Blog/images/qiang_warf/gcm1.png" alt="image" style="display:block;margin-left:auto; margin-right:auto;width:70%;height:70%">
+ 
+<em><small>Figure 1: adapted from Edwards (2011), shows a schematic of a GCM, illustrating the column structure and processes not well resolved by it. The ocean also utilizes a similar structure.</small></em>
+<p>
+To address this issue, the combination of high-resolution high-fidelity simulations and data-driven approaches has emerged as a promising solution. DataWave, a collaborative gravity wave research initiative, is among the first to focus on improving our modeling capability for small scale gravity waves (GWs) and large-scale circulation, and particularly to lead to novel observationally constrained and data-driven gravity wave parameterization schemes.
+</p>
+In this short blog, we will delve deeper into the significance of using high-resolution simulation for data-driven parameterization in climate models and explore the challenges involved in its implementation.
+</p>
+<h4> The Need for High-Resolution Data for Data-Driven Parameterization </h4> 
+</p>
+The unprecedented observations of atmospheric conditions across thousands of balloon flights by Loon LLC provides a unique chance to look at the properties of GWs. However, these Loons are only available at certain limited height levels in the lower stratosphere. Moreover, these observations alone do not provide accurate estimates of GW drag forces, and these drag forces are precisely what GCMs need.
+</p>
+High-resolution simulations bridge this gap by providing full 3D detailed GW information at any chosen location and height. These simulations, with spatial resolutions as fine as a few kilometers to resolve GWs, also allow the DataWave team to estimate the GW drag that directly influence the GCMs. 
+</p>
+While all models are wrong in some way, with the available observations, we can validate these simulations to be sure that we get high-fidelity GW data from these carefully designed high-resolution experiments. Figure 2 shows an example of this. A qualitative comparison of (a) observed and (b) modeled satellite brightness temperature perturbations for a single satellite overpass is presented here. The high-resolution (3-km) weather research and forecast (WRF) model demonstrated high skills at reproducing the observed GWs from the orographic features containing larger-scale topography over the Drake Passage area [4], which boosts our confidence in using similar model setup to produce high fidelity data for developing data-driven GW parameterizations.
+</p>
+
+<img src="/Blog/images/qiang_warf/kruse.png" alt="image" style="display:block;margin-left:auto; margin-right:auto;width:75%;height:75%">
+ 
+<em><small>Figure 2: adapted from Kruse et al. (2022), presents a qualitative comparison between satellite-observed brightness temperature (left) and that simulated by the high-resolution WRF model (right).</small></em>
+<p>
+<h4> Building a Library of High-Resolution Data </h4> 
+</p>
+For the machine learning algorithm to effectively learn from the high-resolution data, we need to construct a diverse and comprehensive library of atmospheric flows. This library should cover a wide range of large-scale weather patterns, climate regimes, and extreme events. This requires substantial computational resources and expertise in numerical modeling.  However, once established, this data library serves as a valuable asset for data-driven approaches, enabling machine learning algorithms to draw upon various scenarios and conditions for improving the data-driven parameterization and the future climate models.
+</p>
+The DataWave team has built a library of GW resolving high-resolution simulations for this purpose using WRF model [5]. For now, the library focuses on regions that have been known to have strong GW signals (see the domains in Fig. 3). We have conducted a total of 20 simulations in 6 domains, where the dates of the week-long runs are chosen to sample the seasonal cycle, QBO phases, and precipitation distribution.  As demonstrated in Fig. 2, one advantage of using WRF model is that it has well-vetted physics and has shown high skill for simulating GWs at convection-permitting resolutions. More regions and circulation scenarios will be added in the future to improve the generalizability of the data-driven scheme. 
+</p>
+<img src="/Blog/images/qiang_warf/warf_library.png" alt="image" style="display:block;margin-left:auto; margin-right:auto;width:100%;height:100%">
+<em><small>Figure 3: adapted from Sun et al. (2023), displays a schematic of the WRF library produced by the DataWave team. On the left is a snapshot of the simulation showing the convection and the gravity waves (GWs) it generated. On the right are the domains represented in the library, with the filled box indicating the ones that have been completed and the blank box representing those planned for future inclusion.</small></em>
+</p>
+<h4> Challenges in Utilizing High-Resolution Data for Machine Learning </h4> 
+</p>
+While the potential benefits of using high-resolution data for data-driven parameterization are immense, several challenges must be addressed. One key challenge in the most common data-driven approach (the so-called “supervised” or “offline” learning) is the need to extract, from the high-resolution simulations, the true GW force due to the un- and under-resolved GWs. This sub-grid scale forcing is what has to be added to a low-resolution GCM to properly account for the un- and under-resolved GWs.  A number of methods have been used in the past to separate GWs from the large-scale flow and quantify the GW fluxes or GW force. The team has also compared a few methods on the extraction of GW momentum fluxes and found that different estimation methods would lead to different offline “true” GW force that feeds to the machine learning algorithm.  Therefore, finding the right approach for machine learning is not straightforward.
+</p>
+Another innovation that the library could bring is the 3D propagation of GWs and the resulting 3D sub-grid scale GW force, which is explicitly simulated by the high-resolution WRF model (Fig. 4). The animation in Fig. 4 shows the evolution of the vertical velocity in one of the WRF simulations at 50 km. The GWs there, due to the convection, look just like the ripples you would see if you threw a rock into the water. There is growing evidence that the horizontal propagation of GWs has to be considered in climate models to produce a realistic large-scale atmospheric circulation. Yet, quantifying and implementing it into the climate models is challenging.
+</p>
+<img src="/Blog/images/qiang_warf/WRF-12h-animation.gif" alt="image" style="display:block;margin-left:auto; margin-right:auto;width:50%;height:50%">
+<em><small>Figure 4:  an animation showing the evolution of vertical velocity at 50 km altitude in one of the WRF simulations.</small></em>
+</p>
+Handling the sheer volume and complexity of high-resolution datasets is another obstacle. High-resolution simulations can generate massive amounts of data (~500 Tb for the current library developed by DataWave), which can strain computational resources and hinder efficient processing. To leverage high-resolution data effectively, we need to develop machine learning algorithms capable of handling vast datasets very efficiently. Additionally, ensuring the physical consistency of climate models when incorporating machine learning-derived parameterizations is also crucial, as these models must align with fundamental physical laws to ensure credible outputs. 
+<p>
+To overcome all these challenges, we need advancements in computational capabilities, algorithm development, and interdisciplinary collaboration between climate scientists and machine learning experts. As climate science continues to progress, the integration of high-resolution simulations and data-driven approaches will play a pivotal role in achieving more accurate climate projections and effectively addressing pressing environmental challenges. Therefore, investing in cutting-edge research to leverage the potential of high-resolution simulation and data-driven parameterization is essential for advancing climate science and fostering a sustainable future for generations to come.
+</p>
+
+<h3>Citations: </h3></p>
+
+[1] Schneider, T., Lan, S., Stuart, A., & Teixeira, J. (2017). Earth system modeling 2.0: A blueprint for models that learn from observations and targeted high-resolution simulations. Geophysical Research Letters, 44(24), 12-396. <a href="https://doi.org/10.1002/2017gl076101">https://doi.org/10.1002/2017gl076101</a></p>
+[2] P. N. Edwards (2011). History of climate modeling. WIREs Clim. Chang. 2, 128–139. <a href=https://doi.org/10.1002/wcc.95>https://doi.org/10.1002/wcc.95</a></p>
+[3] Balaji, V., Couvreux, F., Deshayes, J., Gautrais, J., Hourdin, F., & Rio, C. (2022). Are general circulation models obsolete? Proceedings of the National Academy of Sciences, 119(47), e2202075119. <a href="https://doi.org/10.1073/pnas.2202075119">https://doi.org/10.1073/pnas.2202075119</a></p>
+[4] Kruse, C. G., and Coauthors, 2022: Observed and Modeled Mountain Waves from the Surface to the Mesosphere near the Drake Passage. J. Atmos. Sci., 79, 909–932, <a href="https://doi.org/10.1175/JAS-D-21-0252.1">https://doi.org/10.1175/JAS-D-21-0252.1</a>.</p>
+[5] Sun, Y. Q., Hassanzadeh, P., Alexander, M. J., & Kruse, C. G. (2023). Quantifying 3D gravity wave drag in a library of tropical convection-permitting simulations for data-driven parameterizations. Journal of Advances in Modeling Earth Systems, 15, e2022MS003585. <a href="https://doi.org/10.1029/2022MS003585">https://doi.org/10.1029/2022MS003585</a><ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://datawaveproject.github.io/" >
+    &copy;  The DataWave Project 2023 
+  </a>
+  <div class="ananke-socials">
+    
+<a href="https://twitter.com/DataWave_VESRI" target="_blank" class="twitter ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="Twitter link" rel="noopener" aria-label="follow on Twitter——Opens in a new window">
+  <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a>
+<a href="https://github.com/DataWaveProject" target="_blank" class="link-transition github link dib z-999 pt3 pt0-l mr1" title="Github link" rel="noopener" aria-label="follow on Github——Opens in a new window">
+  <svg  height="32px"  style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a>
+
+    </div>
+</footer>
+
+  </body>
+</html>
