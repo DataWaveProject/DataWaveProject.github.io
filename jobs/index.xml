@@ -6,9 +6,26 @@
     <description>Recent content in Openings on The DataWave Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/jobs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PhD and PostDoc at Rice University</title>
+      <title>PhD and PostDoc Positions at Stanford University</title>
+      <link>http://datawaveproject.github.io/jobs/stanford_phd/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/jobs/stanford_phd/</guid>
+      <description>&lt;div&gt;
+&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Stanford_square.png&#34; alt=&#34;tesr&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;
+&lt;h2&gt; Advisor: Prof. Dr. Aditi Sheshadri &lt;/h2&gt;                                           
+&lt;!-- ![logo](/images/cover/Goethe_square.png) --&gt;
+&lt;!-- &lt;a href=&#34;http://datawaveproject.github.io/pdfs/PhD_Ulrich.pdf&#34;&gt;PDF Here&lt;/a&gt; --&gt;
+
+&lt;p&gt;There is an opening for a PhD student to join the research group &lt;i&gt;Atmospheric Dynamics, Variability, and Change&lt;/i&gt; at the &lt;a href=&#34;https://eddy.stanford.edu/&#34;&gt;Stanford Doerr School of Sustainability&lt;/a&gt;, with the goal of starting in Fall 2024. A strong background in math/physics/ engineering (involving fluid dynamics) is required, and relevant research experience would be a bonus. Interested students are encouraged to reach out to Aditi Sheshadri and check out Stanford&#39;s &lt;a href=&#34;https://earth.stanford.edu/ess/admissions&#34;&gt;graduate admissions process&lt;/a&gt;. &lt;/p&gt;
+In addition, Stanford&#39;s team is looking to collaborate with promising postdoctoral scientists. If you are approaching the end of your Ph.D. and would like to discuss possibilities or work with Aditi on putting together your postdoctoral fellowship application (for, e.g., the NSF fellowship, NOAA Climate and Global Change Fellowship, etc.), please send Aditi Sheshadri an email.
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>[Filled] PhD and PostDoc at Rice University</title>
       <link>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -21,22 +38,6 @@
   &lt;p&gt; The &lt;a href=&#34;http://pedram.rice.edu/&#34;&gt;Rice University Environmental Fluid Dynamics Group&lt;/a&gt; has multiple postdoc and PhD positions in the following two topics (and at their intersection):&lt;br&gt;  
     1) Applications of machine learning (ML) to improve the modeling and prediction of turbulent flows, atmospheric processes, climate change, and weather extremes.&lt;br&gt;  
     2) Understanding the dynamics and future changes of the extratropical, large-scale atmospheric circulation variability, with a particular focus on blocking events and annular modes. &lt;!--This project is part of two multi-disciplinary collaborative initiatives involving several US and international teams: &lt;a href=&#34;https://datawaveproject.github.io/&#34;&gt;DataWave&lt;/a&gt; and &lt;a href=&#34;https://cssi-gws.github.io/&#34;&gt;CSSI-GW&lt;/a&gt;.--&gt; &lt;/p&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>[Filled] PhD Position at Stanford University School of Earth</title>
-      <link>http://datawaveproject.github.io/jobs/stanford_phd/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://datawaveproject.github.io/jobs/stanford_phd/</guid>
-      <description>&lt;div&gt;
-&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Stanford_square.png&#34; alt=&#34;tesr&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;
-&lt;h2&gt; Advisor: Prof. Dr. Aditi Sheshadri &lt;/h2&gt;                                           
-&lt;!-- ![logo](/images/cover/Goethe_square.png) --&gt;
-&lt;!-- &lt;a href=&#34;http://datawaveproject.github.io/pdfs/PhD_Ulrich.pdf&#34;&gt;PDF Here&lt;/a&gt; --&gt;
-
-&lt;p&gt;There is an opening for a PhD student to join the research group &lt;i&gt;Atmospheric dynamics, variability, and change&lt;/i&gt; at the &lt;a href=&#34;https://eddy.stanford.edu/&#34;&gt;Stanford Doerr School of Sustainability.&lt;/a&gt; to be filled as soon as possible. The focus of the appointment will be to contribute to the DataWave project and the parameterization of gravity waves. &lt;a href=&#34;https://earth.stanford.edu/ess/admissions&#34;&gt;More information can be found here.&lt;/a&gt; &lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     
