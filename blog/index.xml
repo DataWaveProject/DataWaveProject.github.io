@@ -6,33 +6,21 @@
     <description>Recent content on The DataWave Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://datawaveproject.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Library of High-Resolution Gravity Wave Simulations</title>
       <link>http://datawaveproject.github.io/blog/qiang_warf/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://datawaveproject.github.io/blog/qiang_warf/</guid>
-      <description>&lt;div&gt;
-&lt;h3&gt; How we plan to use it to develop data-driven parametierizations for climate models. &lt;/h3&gt;     
-&lt;p&gt; Climate models, also known as General Circulation Models (GCMs), serve as vital tools for understanding and predicting the complexities of Earth&#39;s climate system. These models play a crucial role in assessing the impact of human activities on the environment and informing climate change mitigation and adaptation strategies.
-&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div&gt;&#xA;&lt;h3&gt; How we plan to use it to develop data-driven parametierizations for climate models. &lt;/h3&gt;     &#xA;&lt;p&gt; Climate models, also known as General Circulation Models (GCMs), serve as vital tools for understanding and predicting the complexities of Earth&#39;s climate system. These models play a crucial role in assessing the impact of human activities on the environment and informing climate change mitigation and adaptation strategies.&#xA;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
     <item>
       <title>What it’s like to fly through a gravity wave</title>
       <link>http://datawaveproject.github.io/blog/isa_balloon/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>http://datawaveproject.github.io/blog/isa_balloon/</guid>
-      <description>&lt;div&gt;
-&lt;img src=&#34;http://datawaveproject.github.io/Blog/images/isa_balloon/balloon.jpeg&#34; alt=&#34;image&#34; style=&#34;;width:100%;height:100%&#34;&gt;
-
-&lt;p&gt; In the vast and ever-expanding realms of Earth&#39;s atmosphere, an invisible symphony plays out, undulating through the skies in the form of gravity waves (GWs). GWs are ubiquitous throughout the atmosphere and can form feedbacks with larger atmospheric flows. Because of this, these smaller scale phenomena can affect global climates, such as with the modulation of the Quasi-Biennial Oscillation in the tropical atmosphere [1].
-&lt;/p&gt;
-&lt;/div&gt;</description>
+      <description>&lt;div&gt;&#xA;&lt;img src=&#34;http://datawaveproject.github.io/Blog/images/isa_balloon/balloon.jpeg&#34; alt=&#34;image&#34; style=&#34;;width:100%;height:100%&#34;&gt;&#xA;&#xA;&lt;p&gt; In the vast and ever-expanding realms of Earth&#39;s atmosphere, an invisible symphony plays out, undulating through the skies in the form of gravity waves (GWs). GWs are ubiquitous throughout the atmosphere and can form feedbacks with larger atmospheric flows. Because of this, these smaller scale phenomena can affect global climates, such as with the modulation of the Quasi-Biennial Oscillation in the tropical atmosphere [1].&#xA;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
     </item>
-    
   </channel>
 </rss>
