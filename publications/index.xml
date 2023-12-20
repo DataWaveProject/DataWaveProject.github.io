@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate>
     <atom:link href="http://datawaveproject.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Machine Learning for Nonorographic Gravity Waves in a Climate Model</title>
+      <link>http://datawaveproject.github.io/publications/papers/ml_nonorographic_hardiman/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://datawaveproject.github.io/publications/papers/ml_nonorographic_hardiman/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Steven Hardiman&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Adam Scaife&lt;/strong&gt;&lt;/em&gt;, Annelize Niekerk, Rachel Prudden, Aled Owen, Samantha Adams, Tom Dunstan, Nick Dunstone, and Sam Madge&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1175/AIES-D-22-0081.1&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;&#xA;&lt;p&gt;There is growing use of machine learning algorithms to replicate subgrid parameterization schemes in global climate models. Parameterizations rely on approximations; thus, there is potential for machine learning to aid improvements. In this study, a neural network is used to mimic the behavior of the nonorographic gravity wave scheme used in the Met Office climate model, important for stratospheric climate and variability.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Multi-scale dynamics of the interaction between waves and mean flows: From nonlinear WKB theory to gravity-wave parameterizations in weather and climate models</title>
       <link>http://datawaveproject.github.io/publications/papers/multi_scale_achatz/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>

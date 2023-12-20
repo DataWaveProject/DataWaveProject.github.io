@@ -6,8 +6,15 @@
     <description>Recent content on The DataWave Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://datawaveproject.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataWave at AGU 2023</title>
+      <link>http://datawaveproject.github.io/blog/agu23/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://datawaveproject.github.io/blog/agu23/</guid>
+      <description>&lt;div&gt;&#xA;&lt;img src=&#34;http://datawaveproject.github.io/Blog/images/Datawave_AGU.png&#34; alt=&#34;image&#34; style=&#34;;width:100%;height:100%&#34;&gt;&#xA;&#xA;&lt;p&gt; Between Dec. 11th - Dec. 15th, twelve members of the DataWave group came together for the 2023 AGU conference in San Francisco.&#xA;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>A Library of High-Resolution Gravity Wave Simulations</title>
       <link>http://datawaveproject.github.io/blog/qiang_warf/</link>
