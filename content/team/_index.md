@@ -271,7 +271,7 @@ description: "Meet the Team"
 
 <!--  Rob	Christopher King  -->
 {{< Profile_Creator  
-  imgpath="/images/team/Rob_King.jpg"
+  imgpath="/images/team/Rob_Kingg.jpg"
   name="Robert King"
   title="PhD Student"
   role="Advised by Dr. Aditi Sheshadri"
