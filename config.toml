@@ -83,5 +83,3 @@ url = "https://twitter.com/DataWave_VESRI"
     verbose = false
     workingFolderCurrent = false
     [markup.asciidocExt.attributes]
-
-    ignoreLogs = ['warning-goldmark-raw-html']
