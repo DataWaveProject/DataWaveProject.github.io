@@ -9,31 +9,44 @@ on:
   push:
     branches: [ master ]
 
-env:
-  HUGO_ENV: production
+#env:
+#  HUGO_ENV: production
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "deploy"
   deploy:
     # The type of runner that the job will run on
-    runs-on: ubuntu-20.04
-
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
     # Step 1 - Checks-out your repository under $GITHUB_WORKSPACE
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
           submodules: true  # Fetch Hugo themes
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
     # Step 2 - Sets up the latest version of Hugo
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
-          hugo-version: 'latest'
+          hugo-version: '0.119.0'
+    
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+      ruby-version: 3.2
+
+    - run: gem install asciidoctor
+
+    - name: Run Hugo
+      run: |
+        alias asciidoctor="asciidoctor --attribute=experimental=true --attribute=icons=font"
+        hugo --minify
 
     # Step 3 - Clean and don't fail
     - name: Clean public directory
@@ -41,8 +54,8 @@ jobs:
 
     # Step 4 - Builds the site using the latest version of Hugo
     # Also specifies the theme we want to use
-    - name: Build
-      run: hugo --theme=ananke
+    #- name: Build
+    #  run: hugo --theme=ananke
 
     # Step 5 - Create name file
     #- name: Create cname file
@@ -51,6 +64,7 @@ jobs:
     # Step 6 - Push our generated site to our gh-pages branch
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
+      if: ${{ github.ref == 'refs/heads/main' }}
       with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.JMHREIF_COM_TOKEN }}
           publish_dir: ./public
