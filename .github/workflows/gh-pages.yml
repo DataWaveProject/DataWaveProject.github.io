@@ -35,11 +35,6 @@ jobs:
       uses: peaceiris/actions-hugo@v3
       with:
           hugo-version: '0.119.0'
-    
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-      ruby-version: 3.2
 
     - run: gem install asciidoctor
 
