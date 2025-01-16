@@ -36,21 +36,14 @@ jobs:
       with:
           hugo-version: '0.119.0'
 
-    - run: gem install asciidoctor
-
-    - name: Run Hugo
-      run: |
-        alias asciidoctor="asciidoctor --attribute=experimental=true --attribute=icons=font"
-        hugo --minify
-
     # Step 3 - Clean and don't fail
     - name: Clean public directory
       run: rm -rf public
 
     # Step 4 - Builds the site using the latest version of Hugo
     # Also specifies the theme we want to use
-    #- name: Build
-    #  run: hugo --theme=ananke
+    - name: Build
+      run: hugo --theme=ananke
 
     # Step 5 - Create name file
     #- name: Create cname file
@@ -61,5 +54,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.ref == 'refs/heads/main' }}
       with:
-          github_token: ${{ secrets.JMHREIF_COM_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
