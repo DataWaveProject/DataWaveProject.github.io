@@ -6,14 +6,17 @@
     <description>Recent content in Background on The DataWave Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://datawaveproject.github.io/background/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="http://datawaveproject.github.io/background/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seasonal and Latitudinal Variability of the Gravity Wave Spectrum in the Lower Stratosphere</title>
       <link>http://datawaveproject.github.io/background/seasonal_latitudinal_variability/</link>
       <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://datawaveproject.github.io/background/seasonal_latitudinal_variability/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032850&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;&#xA;&lt;p&gt;Superpressure balloon data of unprecedented coverage from Loon LLC is used to investigate the seasonal and latitudinal variability of lower stratospheric gravity waves over the entire intrinsic frequency spectrum. We show that seasonal variability in both gravity wave amplitudes and spectral slopes exist for a wide range of intrinsic frequencies and provide estimates of spectral slopes in five latitudinal regions for all four seasons, in five different frequency windows.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032850&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Superpressure balloon data of unprecedented coverage from Loon LLC is used to investigate the seasonal and latitudinal variability of lower stratospheric gravity waves over the entire intrinsic frequency spectrum. We show that seasonal variability in both gravity wave amplitudes and spectral slopes exist for a wide range of intrinsic frequencies and provide estimates of spectral slopes in five latitudinal regions for all four seasons, in five different frequency windows.&lt;/p&gt;</description>
     </item>
+    
   </channel>
 </rss>

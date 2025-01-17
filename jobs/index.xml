@@ -6,35 +6,90 @@
     <description>Recent content in Openings on The DataWave Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://datawaveproject.github.io/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/jobs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PostDoc Position at Stanford University</title>
       <link>http://datawaveproject.github.io/jobs/stanford1_phd/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://datawaveproject.github.io/jobs/stanford1_phd/</guid>
-      <description>&lt;div&gt;&#xA;&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Stanford_square.png&#34; alt=&#34;tesr&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;&#xA;&lt;h2&gt; Advisor: Aditi Sheshadri &lt;/h2&gt;                                           &#xA;&lt;!-- ![logo](/images/cover/Goethe_square.png) --&gt;&#xA;&lt;!-- &lt;a href=&#34;http://datawaveproject.github.io/pdfs/PhD_Ulrich.pdf&#34;&gt;PDF Here&lt;/a&gt; --&gt;&#xA;&#xA;&lt;p&gt;There is an opening for a PostDoc to join the research group &lt;i&gt;Atmospheric Dynamics, Variability, and Change&lt;/i&gt; at the &lt;a href=&#34;https://eddy.stanford.edu/&#34;&gt;Stanford Doerr School of Sustainability&lt;/a&gt;. &lt;p&gt; Topics of research could include atmospheric gravity waves as they relate to the DataWave project, regional high-resolution modeling, ML for SGS parameterizations, Bayesian methods, etc. Interested scientists are encouraged to reach out to Aditi Sheshadri. &lt;p&gt;&#xA;Terms: &lt;p&gt;&#xA;The initial appointment is expected to be for one year, with the possibility of renewal for subsequent years depending on performance.&#xA;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div&gt;
+&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Stanford_square.png&#34; alt=&#34;tesr&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;
+&lt;h2&gt; Advisor: Aditi Sheshadri &lt;/h2&gt;                                           
+&lt;!-- ![logo](/images/cover/Goethe_square.png) --&gt;
+&lt;!-- &lt;a href=&#34;http://datawaveproject.github.io/pdfs/PhD_Ulrich.pdf&#34;&gt;PDF Here&lt;/a&gt; --&gt;
+
+&lt;p&gt;There is an opening for a PostDoc to join the research group &lt;i&gt;Atmospheric Dynamics, Variability, and Change&lt;/i&gt; at the &lt;a href=&#34;https://eddy.stanford.edu/&#34;&gt;Stanford Doerr School of Sustainability&lt;/a&gt;. &lt;p&gt; Topics of research could include atmospheric gravity waves as they relate to the DataWave project, regional high-resolution modeling, ML for SGS parameterizations, Bayesian methods, etc. Interested scientists are encouraged to reach out to Aditi Sheshadri. &lt;p&gt;
+Terms: &lt;p&gt;
+The initial appointment is expected to be for one year, with the possibility of renewal for subsequent years depending on performance.
+&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
+    
     <item>
       <title>Student Research Assistant </title>
       <link>http://datawaveproject.github.io/jobs/iap_assistant/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      
       <guid>http://datawaveproject.github.io/jobs/iap_assistant/</guid>
-      <description>&lt;div&gt;&#xA;&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/IAP_square.png&#34; alt=&#34;logo&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;&#xA;&lt;h2&gt; Advisor: Claudia Stephan &lt;/h2&gt;    &#xA;&lt;a href=&#34;https://www.iap-kborn.de/fileadmin/user_upload/Current_issue/Job_Vacancies/Theorie/HiWi_advertisement-2024-01-AK.pdf&#34;&gt;PDF Here&lt;/a&gt;   &#xA;&lt;!--  --&gt;&#xA;&#xA;&lt;p&gt; Are you eager to contribute to cutting-edge atmospheric research? Then join our international&#xA;DataWave team at the Leibniz Institute of Atmospheric Physics (IAP), where we combine&#xA;models, observations and machine learning.&#xA;&lt;/p&gt;&#xA;As part of our team, you will help with the analysis of global high-resolution numerical&#xA;simulations. We offer you a chance to use or develop your skills in handling, analyzing and&#xA;visualizing large data sets. This position can be either in person or remote.&#xA;&lt;/p&gt;&#xA;You are a BSc or MSc student with a passion for atmospheric science and interested in:&lt;/p&gt;&#xA;1) Python and Shell Scripting&lt;/p&gt;&#xA;2) Data Processing and Visualization&lt;/p&gt;&#xA;3) Effective Communication (English) and Teamwork Skills&lt;/p&gt;&#xA;&#xA;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div&gt;
+&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/IAP_square.png&#34; alt=&#34;logo&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;
+&lt;h2&gt; Advisor: Claudia Stephan &lt;/h2&gt;    
+&lt;a href=&#34;https://www.iap-kborn.de/fileadmin/user_upload/Current_issue/Job_Vacancies/Theorie/HiWi_advertisement-2024-01-AK.pdf&#34;&gt;PDF Here&lt;/a&gt;   
+&lt;!--  --&gt;
+
+&lt;p&gt; Are you eager to contribute to cutting-edge atmospheric research? Then join our international
+DataWave team at the Leibniz Institute of Atmospheric Physics (IAP), where we combine
+models, observations and machine learning.
+&lt;/p&gt;
+As part of our team, you will help with the analysis of global high-resolution numerical
+simulations. We offer you a chance to use or develop your skills in handling, analyzing and
+visualizing large data sets. This position can be either in person or remote.
+&lt;/p&gt;
+You are a BSc or MSc student with a passion for atmospheric science and interested in:&lt;/p&gt;
+1) Python and Shell Scripting&lt;/p&gt;
+2) Data Processing and Visualization&lt;/p&gt;
+3) Effective Communication (English) and Teamwork Skills&lt;/p&gt;
+
+&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
+    
     <item>
       <title>Research Assistant / Postdoctoral Scientist at Goethe University </title>
       <link>http://datawaveproject.github.io/jobs/frankfurtpostdoc/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://datawaveproject.github.io/jobs/frankfurtpostdoc/</guid>
-      <description>&lt;div&gt;&#xA;&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Goethe_square.png&#34; alt=&#34;logo&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;&#xA;&lt;h2&gt; Advisor: Ulrich Achatz &lt;/h2&gt;    &#xA;&lt;a href=&#34;http://datawaveproject.github.io/pdfs/Postdoc_AtmosphericDynamics_Climate_Frankfurt.pdf&#34;&gt;PDF Here&lt;/a&gt;   &#xA;&lt;!--  --&gt;&#xA;&#xA;&lt;p&gt; The research group &lt;a href=&#34;https://www.goethe-university-frankfurt.de/45681958/Theory-of-Atmospheric-Dynamics-and-Climate&#34;&gt;Theory of Atmospheric Dynamics and Climate&lt;/a&gt; at the Institute of Atmospheric and Environmental Sciences of the Goethe University in the city of Frankfurt invites applications for a Research Assistant / Postdoctoral Scientist for a three year position. The position includes a moderate participation in teaching. In case of successful performance an extension up to another three years is possible.&#xA;&lt;/p&gt;&#xA;Within the project we aim to improve the understanding of relevant multiscale processes in the tropopause region and to specify their impact on composition, dynamics and ultimately on future climate and climate variability. The postdoctoral scientist will work on the unresolved-dynamics impact on transport and mixing in the tropopause region. The work will address the dynamics of gravity waves and their impact on tracers. &#xA;&lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div&gt;
+&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Goethe_square.png&#34; alt=&#34;logo&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;
+&lt;h2&gt; Advisor: Ulrich Achatz &lt;/h2&gt;    
+&lt;a href=&#34;http://datawaveproject.github.io/pdfs/Postdoc_AtmosphericDynamics_Climate_Frankfurt.pdf&#34;&gt;PDF Here&lt;/a&gt;   
+&lt;!--  --&gt;
+
+&lt;p&gt; The research group &lt;a href=&#34;https://www.goethe-university-frankfurt.de/45681958/Theory-of-Atmospheric-Dynamics-and-Climate&#34;&gt;Theory of Atmospheric Dynamics and Climate&lt;/a&gt; at the Institute of Atmospheric and Environmental Sciences of the Goethe University in the city of Frankfurt invites applications for a Research Assistant / Postdoctoral Scientist for a three year position. The position includes a moderate participation in teaching. In case of successful performance an extension up to another three years is possible.
+&lt;/p&gt;
+Within the project we aim to improve the understanding of relevant multiscale processes in the tropopause region and to specify their impact on composition, dynamics and ultimately on future climate and climate variability. The postdoctoral scientist will work on the unresolved-dynamics impact on transport and mixing in the tropopause region. The work will address the dynamics of gravity waves and their impact on tracers. 
+&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
+    
     <item>
       <title>PhD / PostDoc / Research Assistant Positions at Rice University</title>
       <link>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>http://datawaveproject.github.io/jobs/rice_phd_postdoc/</guid>
-      <description>&lt;div&gt;&#xA;&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Chicago_square.png&#34; alt=&#34;University Logo&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;&#xA;&lt;h2&gt; Advisor: Pedram Hassanzadeh &lt;/h2&gt;                                           &#xA;&#xA;  &lt;p&gt; The &lt;a href=&#34;http://pedram.rice.edu/&#34;&gt;University of Chicago’s Climate Extremes Theory and Data Group&lt;/a&gt; has multiple postdoc, research scientist, and PhD positions in the following three topics (and at their intersections):&lt;p&gt;  &#xA;    1) Extreme weather events and climate change (with a focus on dynamics and the extratropical atmospheric circulation)&lt;br&gt;  &#xA;    2) Scientific deep learning for multi-scale nonlinear dynamical systems (with a focus on developing general, rigorous frameworks for explainability and analysis) &lt;br&gt;&#xA;    3) Applications of deep learning to improve analysis, modeling, and prediction of climate variability, weather extremes, and geophysical turbulence (with a focus on subgrid-scale modeling and spatio-temporal forecast/emulation). In particular, there are a few openings in this area for the DataWave project. &lt;!--This project is part of two multi-disciplinary collaborative initiatives involving several US and international teams: &lt;a href=&#34;https://datawaveproject.github.io/&#34;&gt;DataWave&lt;/a&gt; and &lt;a href=&#34;https://cssi-gws.github.io/&#34;&gt;CSSI-GW&lt;/a&gt;.--&gt; &lt;/p&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div&gt;
+&lt;img src=&#34;http://datawaveproject.github.io/Jobs/images/Chicago_square.png&#34; alt=&#34;University Logo&#34; style=&#34;float:left;width:25%;height:25%;padding:0 25px 0 0;&#34;&gt;
+&lt;h2&gt; Advisor: Pedram Hassanzadeh &lt;/h2&gt;                                           
+
+  &lt;p&gt; The &lt;a href=&#34;http://pedram.rice.edu/&#34;&gt;University of Chicago’s Climate Extremes Theory and Data Group&lt;/a&gt; has multiple postdoc, research scientist, and PhD positions in the following three topics (and at their intersections):&lt;p&gt;  
+    1) Extreme weather events and climate change (with a focus on dynamics and the extratropical atmospheric circulation)&lt;br&gt;  
+    2) Scientific deep learning for multi-scale nonlinear dynamical systems (with a focus on developing general, rigorous frameworks for explainability and analysis) &lt;br&gt;
+    3) Applications of deep learning to improve analysis, modeling, and prediction of climate variability, weather extremes, and geophysical turbulence (with a focus on subgrid-scale modeling and spatio-temporal forecast/emulation). In particular, there are a few openings in this area for the DataWave project. &lt;!--This project is part of two multi-disciplinary collaborative initiatives involving several US and international teams: &lt;a href=&#34;https://datawaveproject.github.io/&#34;&gt;DataWave&lt;/a&gt; and &lt;a href=&#34;https://cssi-gws.github.io/&#34;&gt;CSSI-GW&lt;/a&gt;.--&gt; &lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
+    
   </channel>
 </rss>
