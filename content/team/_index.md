@@ -113,16 +113,6 @@ description: "Meet the Team"
 
 {{< ProfileRegion >}}
 
-<!--  Annelize van Niekerk  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Annelize_Van_Niekerk.jpg"
-  name="Annelize van Niekerk"
-  title=" Senior Scientist in Atmospheric Processes and Parametrizations "
-  role=" test "
-  website="https://www.metoffice.gov.uk/research/people/annelize-van-niekerk"
-  institute="MetOffice"
-  workdesc="Development and validation of orographic gravity wave drag parametrizations in models" >}}
-
 <!--  Riwal	Plougonven  -->
   {{< Profile_Creator  
     imgpath="/images/team/Riwal_Plougonven.jpg"
@@ -132,16 +122,6 @@ description: "Meet the Team"
     website="http://www.lmd.ens.fr/plougon/"
     institute="Ecole Polytechnique (LMD/IPSL)"
     workdesc="Atmospheric dynamics, with a focus on observation and modeling of gravity waves and their impacts in the stratosphere." >}}
-
-    <!--  Aurélien 	Podglagen  -->
-    {{<Profile_Creator  
-      imgpath="/images/team/Aurelien_Podglagen.jpg"
-      name="Aurélien Podglagen"
-      title="Research scientist"
-      role="Collaboration with François Lott"
-      website="https://www.lmd.jussieu.fr/Members/apodglajen"
-      institute="Laboratoire de Meteorologie Dynamique"
-      workdesc="Characterizing gravity waves and their interactions with cirrus clouds in the upper troposphere, using superpressure balloon observations and modeling approaches." >}}
 
 <!--  Qiang Sun  -->
   {{<Profile_Creator  
@@ -162,26 +142,6 @@ description: "Meet the Team"
     website="https://www.metoffice.gov.uk/research/people/steven-hardiman"
     institute="MetOffice"
     workdesc="Global scale dynamics and teleconnections" >}}
-    
-<!--  Chris Kruse
-  {{<Profile_Creator  
-    imgpath="/images/team/Chris_Kruse.jpg"
-    name="Chris Kruse"
-    title="Research Scientist"
-    role=" "
-    website="https://www.nwra.com/people/362/"
-    institute="NWRA"
-    workdesc="I have expertise in atmospheric dynamics mountain, meteorology, gravity waves, and parameterization" >}} -->
-
-<!--  Brian Green  -->
-  {{< Profile_Creator
-    imgpath="/images/team/Brian_Green.jpg"
-    name="Brian Green"
-    title="Postdoctoral Researcher"
-    role=""
-    website="https://eddy.stanford.edu/people"
-    institute="Stanford Doerr School of Sustainability"
-    workdesc="Analysis of gravity waves using loon observation data" >}}
 
   <!--  Hamid	Pahlavan  -->
   {{< Profile_Creator  
@@ -193,16 +153,6 @@ description: "Meet the Team"
     institute="Rice University"
     workdesc=" " >}}
 
-  <!--  Ofer	Shamir  -->
-  {{< Profile_Creator  
-    imgpath="/images/team/Ofer_Shamir.jpg"
-    name="Ofer	Shamir"
-    title="Postdoctoral Researcher"
-    role=""
-    website="https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/"
-    institute="NYU"
-    workdesc="Geophysical Fluid Dynamics" >}}
-
  <!--  Yanmichel Morfa  -->
  {{< Profile_Creator  
     imgpath="/images/team/Yanmichel_Morfa.jpg"
@@ -213,15 +163,25 @@ description: "Meet the Team"
     institute="Leibniz Institute of Atmospheric Physics"
     workdesc="Gravity wave dynamics and energy transfers across scales in high‐resolution global models" >}}
 
-<!--  Laura	Mansfield  -->
+<!--  Aman Gupta  -->
 {{< Profile_Creator  
-  imgpath="/images/team/Laura_Mansfield.png"
-  name="Laura	Mansfield"
-  title="Postdoctoral Researcher "
+  imgpath="/images/team/Aman_Gupta.jpg"
+  name="Aman Gupta"
+  title="Research Scientist"
   role=" "
   website="https://eddy.stanford.edu/people"
   institute=" Stanford Doerr School of Sustainability "
-  workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}}
+  workdesc=" " >}}
+
+<!--  Brian Green  -->
+  {{< Profile_Creator
+    imgpath="/images/team/Brian_Green.jpg"
+    name="Brian Green"
+    title="Research Scientist"
+    role=""
+    website="https://eddy.stanford.edu/people"
+    institute="Stanford Doerr School of Sustainability"
+    workdesc="Analysis of gravity waves using loon observation data" >}}
 
 <!--  Ray Chew  -->
 {{< Profile_Creator  
@@ -232,16 +192,6 @@ description: "Meet the Team"
   website="https://www.goethe-university-frankfurt.de/45681995/Staff"
   institute="Goethe-Universität Frankfurt"
   workdesc=" Combining raytracing-based modelling, high-performance numerics, and machine learning methods to improve the representation of gravity waves in numerical weather prediction " >}}
-
-<!--  Aman Gupta  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Aman_Gupta.jpg"
-  name="Aman Gupta"
-  title="Postdoctoral Researcher"
-  role=" "
-  website="https://eddy.stanford.edu/people"
-  institute=" Stanford Doerr School of Sustainability "
-  workdesc=" " >}}
 
 {{</ ProfileRegion >}}
 
@@ -279,19 +229,9 @@ description: "Meet the Team"
   institute=" Stanford Doerr School of Sustainability "
   workdesc="Calibration and Uncertainty Quantification for MiMA gravity wave parameterization" >}}
 
-<!--  Moein	Darman  -->
-  {{< Profile_Creator  
-    imgpath="/images/team/Moein_Darman.jpg"
-    name="Moein Darman"
-    title="PhD Student"
-    role="Advised by Dr. Pedram Hassanzadeh"
-    website="https://pedram.rice.edu/team/"
-    institute="Rice University"
-    workdesc="Subgrid-scale physics parameterization using neural networks, with a particular focus on CNN and FNO" >}}
-
 <!--  Felix	Jochum  -->
   {{< Profile_Creator  
-    imgpath="/images/team/Felix_Jochum.jpg"
+    imgpath="/images/team/Felix_Jochum1.jpg"
     name="Felix Jochum"
     title="PhD Student"
     role="Advised by Dr. Ulrich Achatz"
@@ -304,36 +244,6 @@ description: "Meet the Team"
 # Collaborators
 
 {{< ProfileRegion >}}
-
-<!--  Minah	Yang  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Minah_Yang.jpg"
-  name="Minah	Yang"
-  title=" Postdoctoral Researcher "
-  role=" "
-  website="https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/"
-  institute=" NYU "
-  workdesc=" " >}}
-
-<!--  Catherine	Wilka  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Catherine_Wilka.jpg"
-  name="Catherine Wilka"
-  title="  "
-  role=" Postdoctoral Researcher "
-  website=" https://eddy.stanford.edu/people "
-  institute=" Stanford Doerr School of Sustainability"
-  workdesc="  " >}}
-
-<!--  Martina	Bramberger  -->
-{{< Profile_Creator  
-  imgpath="/images/team/Martina_Bramberger.jpg"
-  name="Martina	Bramberger"
-  title="Postdoctoral Researcher"
-  role=" "
-  website="https://www.nwra.com/people/327/"
-  institute="NorthWest Research Associates"
-  workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
 
 <!--  Milena	Corcos  -->
 {{< Profile_Creator  
@@ -354,6 +264,86 @@ description: "Meet the Team"
   website="https://caos.cims.nyu.edu/dynamic/people/phd-students/"
   institute=" NYU "
   workdesc=" " >}}
+
+<!--  Annelize van Niekerk  -->
+{{< Profile_Creator  
+  imgpath="/images/team/Annelize_Van_Niekerk.jpg"
+  name="Annelize van Niekerk"
+  title=" Senior Scientist in Atmospheric Processes and Parametrizations "
+  role=""
+  website="https://www.metoffice.gov.uk/research/people/annelize-van-niekerk"
+  institute="MetOffice"
+  workdesc="Development and validation of orographic gravity wave drag parametrizations in models" >}}
+
+<!--  Aurélien 	Podglagen  -->
+  {{<Profile_Creator  
+    imgpath="/images/team/Aurelien_Podglagen.jpg"
+    name="Aurélien Podglagen"
+    title="Research scientist"
+    role="Collaboration with François Lott"
+    website="https://www.lmd.jussieu.fr/Members/apodglajen"
+    institute="Laboratoire de Meteorologie Dynamique"
+    workdesc="Characterizing gravity waves and their interactions with cirrus clouds in the upper troposphere, using superpressure balloon observations and modeling approaches." >}}
+  
+<!--  Laura	Mansfield
+{{< Profile_Creator  
+  imgpath="/images/team/Laura_Mansfield.png"
+  name="Laura	Mansfield"
+  title="Postdoctoral Researcher "
+  role=" "
+  website="https://eddy.stanford.edu/people"
+  institute=" Stanford Doerr School of Sustainability "
+  workdesc=" Uncertainty quantification and calibration of gravity wave parameterizations " >}}
+
+  <!--  Ofer	Shamir
+  {{< Profile_Creator  
+    imgpath="/images/team/Ofer_Shamir.jpg"
+    name="Ofer	Shamir"
+    title="Postdoctoral Researcher"
+    role=""
+    website="https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/"
+    institute="NYU"
+    workdesc="Geophysical Fluid Dynamics" >}}
+    
+<!--  Moein	Darman
+  {{< Profile_Creator  
+    imgpath="/images/team/Moein_Darman.jpg"
+    name="Moein Darman"
+    title="PhD Student"
+    role="Advised by Dr. Pedram Hassanzadeh"
+    website="https://pedram.rice.edu/team/"
+    institute="Rice University"
+    workdesc="Subgrid-scale physics parameterization using neural networks, with a particular focus on CNN and FNO" >}}
+
+<!--  Minah	Yang  
+{{< Profile_Creator  
+  imgpath="/images/team/Minah_Yang.jpg"
+  name="Minah	Yang"
+  title=" Postdoctoral Researcher "
+  role=" "
+  website="https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/"
+  institute=" NYU "
+  workdesc=" " >}}
+
+<!--  Catherine	Wilka 
+{{< Profile_Creator  
+  imgpath="/images/team/Catherine_Wilka.jpg"
+  name="Catherine Wilka"
+  title="  "
+  role=" Postdoctoral Researcher "
+  website=" https://eddy.stanford.edu/people "
+  institute=" Stanford Doerr School of Sustainability"
+  workdesc="  " >}}
+
+<!--  Martina	Bramberger  
+{{< Profile_Creator  
+  imgpath="/images/team/Martina_Bramberger.jpg"
+  name="Martina	Bramberger"
+  title="Postdoctoral Researcher"
+  role=" "
+  website="https://www.nwra.com/people/327/"
+  institute="NorthWest Research Associates"
+  workdesc="Analysis of gravity waves and their momentum flux with observational data" >}}
 
  <!--  Laura Köhler  
  {{< Profile_Creator  
@@ -423,9 +413,17 @@ description: "Meet the Team"
     role="Advised by Dr. Pedram Hassanzadeh"
     website=" https://caos.cims.nyu.edu/dynamic/people/postdocs-and-visitors/ "
     institute=" Rice "
-    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}}
-    
-    -->
+    workdesc=" The intersection of theoretical deep learning, dynamical systems, and turbulence modeling to improve weather and climate models  " >}}  
+      
+<!--  Chris Kruse
+  {{<Profile_Creator  
+    imgpath="/images/team/Chris_Kruse.jpg"
+    name="Chris Kruse"
+    title="Research Scientist"
+    role=" "
+    website="https://www.nwra.com/people/362/"
+    institute="NWRA"
+    workdesc="I have expertise in atmospheric dynamics mountain, meteorology, gravity waves, and parameterization" >}} -->
 
 {{</ ProfileRegion >}}
 
