@@ -6,7 +6,7 @@
     <description>Recent content in DataWave: Collaborative Gravity Wave Research on The DataWave Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://datawaveproject.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PostDoc Position at Stanford University</title>
       <link>http://datawaveproject.github.io/jobs/stanford1_phd/</link>
@@ -133,6 +133,123 @@ Within the project we aim to improve the understanding of relevant multiscale pr
     </item>
     
     <item>
+      <title>Machine Learning Global Simulation of Nonlocal Gravity Wave Propagation</title>
+      <link>http://datawaveproject.github.io/publications/papers/gupta_ml/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/gupta_ml/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Aman Gupta&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;, Sujit Roy, Vishal Gaur, Manil Maskey, and Rahul Ramachandran&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2406.14775&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Global climate models typically operate at a grid resolution of hundreds of kilometers and fail to resolve atmospheric mesoscale processes, e.g., clouds, precipitation, and gravity waves (GWs). Model representation of these processes and their sources is essential to the global circulation and planetary energy budget, but subgrid scale contributions from these processes are often only approximately represented in models using parameterizations. These parameterizations are subject to approximations and idealizations, which limit their capability and accuracy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Regression Forest Approaches to Gravity Wave Parameterization for Climate Projection </title>
+      <link>http://datawaveproject.github.io/publications/papers/connelly_forest/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/connelly_forest/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;David S. Connelly&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Edwin P. Gerber&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2023MS004184&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;We train random and boosted forests, two machine learning architectures based on regression trees, to emulate a physics-based parameterization of atmospheric gravity wave momentum transport. We compare the forests to a neural network benchmark, evaluating both offline errors and online performance when coupled to an atmospheric model under the present day climate and in 800 and 1,200 ppm CO2 global warming scenarios. Offline, the boosted forest exhibits similar skill to the neural network, while the random forest scores significantly lower. Both forest models couple stably to the atmospheric model, and control climate integrations with the boosted forest exhibit lower biases than those with the neural network.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gravity Wave Momentum Fluxes from 1 km Global ECMWF Integrated Forecast System</title>
+      <link>http://datawaveproject.github.io/publications/papers/gupta_mom_flux/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/gupta_mom_flux/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Aman Gupta&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;, and Valentine Anantharaj&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1038/s41597-024-03699-x&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Progress in understanding the impact of mesoscale variability, including gravity waves (GWs), on atmospheric circulation is often limited by the availability of global fine-resolution observations and simulated data. This study presents momentum fluxes due to atmospheric GWs extracted from four months of an experimental “nature run&amp;quot;, integrated at a 1 km resolution (XNR1K) using the Integrated Forecast System (IFS) model. Helmholtz decomposition is used to compute zonal and meridional flux of vertical momentum from ~1.5 petabytes of data; quantities often emulated by climate model parameterization of GWs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Insights on Lateral Gravity Wave Propagation in the Extratropical Stratosphere From 44 Years of ERA5 Data</title>
+      <link>http://datawaveproject.github.io/publications/papers/gupta_extratropical/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/gupta_extratropical/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Aman Gupta&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;M. Joan Alexander&lt;/strong&gt;&lt;/em&gt;, and Thomas Birner&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2024GL108541&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;The study presents (a) a 44-year wintertime climatology of resolved gravity wave (GW) fluxes and forcing in the extratropical stratosphere using ERA5, and (b) their composite evolution around gradual (final warming) and abrupt (sudden warming) transitions in the wintertime circulation, focusing on lateral fluxes. The transformed Eulerian mean equations are leveraged to provide a glimpse of the importance of GW lateral propagation (i.e., horizontal propagation) toward driving the wintertime stratospheric circulation by analyzing the relative contribution of the vertical versus meridional flux dissipation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The impact of transience in the interaction between orographic gravity waves and mean flow</title>
+      <link>http://datawaveproject.github.io/publications/papers/jochum_transience-copy/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/jochum_transience-copy/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Felix Jochum&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Ray Chew&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;François Lott&lt;/strong&gt;&lt;/em&gt;, Georg S. Voelker, Jan Weinkaemmerer, and &lt;em&gt;&lt;strong&gt;Ulrich Achatz&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2408.03139&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;A Lagrangian gravity-wave parameterization (MS-GWaM, Multi-Scale Gravity-Wave Model) that allows for fully transient wave-mean-flow interaction and horizontal propagation is applied to orographic gravity waves for the first time. Both linear and nonlinear mountain waves are modeled in idealized simulations within the pseudo-incompressible flow solver PincFlow. Two-dimensional flows over monochromatic orographies are considered, using MS-GWaM either in its fully transient implementation or in a steady-state implementation that represents classic mountain-wave parameterizations. Comparisons of wave-resolving simulations (not using MS-GWaM) and coarse-resolution simulations (using MS-GWaM) show that allowing for transience leads to a significantly more accurate forcing of the resolved mean flow.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Constrained Spectral Approximation of Subgrid-Scale Orography on Unstructured Grids</title>
+      <link>http://datawaveproject.github.io/publications/papers/chew_unstructured_grids/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/chew_unstructured_grids/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Ray Chew&lt;/strong&gt;&lt;/em&gt;, Stamen Dolaptchiev, Maja-Sophie Wedel, and &lt;em&gt;&lt;strong&gt;Ulrich Achatz&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2024MS004361&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;The representation of subgrid-scale orography is a challenge in the physical parameterization of orographic gravity-wave sources in weather forecasting. A significant hurdle is encoding as much physical information with as simple a representation as possible. Other issues include scale awareness, that is, the orographic representation has to change according to the grid cell size and usability on unstructured geodesic grids with non-quadrilateral grid cells. This work introduces a novel spectral analysis method approximating a scale-aware spectrum of subgrid-scale orography on unstructured geodesic grids.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Imbalance, Uncertainty Quantification, and Transfer Learning in Data-Driven Parameterizations: Lessons From the Emulation of Gravity Wave Momentum Transport in WACCM</title>
+      <link>http://datawaveproject.github.io/publications/papers/sun_waccm/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/sun_waccm/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Qiang Sun&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Hamid Pahlavan&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;,&lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;, Sandro Lubis, &lt;em&gt;&lt;strong&gt;M. Joan Alexander&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Edwin Gerber&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;, and Yifei Guan&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2023MS004145&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Neural networks (NNs) are increasingly used for data-driven subgrid-scale parameterizations in weather and climate models. While NNs are powerful tools for learning complex non-linear relationships from data, there are several challenges in using them for parameterizations. Three of these challenges are (a) data imbalance related to learning rare, often large-amplitude, samples; (b) uncertainty quantification (UQ) of the predictions to provide an accuracy indicator; and (c) generalization to other climates, for example, those with different radiative forcings. Here, we examine the performance of methods for addressing these challenges using NN-based emulators of the Whole Atmosphere Community Climate Model (WACCM) physics-based gravity wave (GW) parameterizations as a test case.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Quantification of a Machine Learning Subgrid-Scale Parameterization for Atmospheric Gravity Waves</title>
+      <link>http://datawaveproject.github.io/publications/papers/mansfield_uq/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/mansfield_uq/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Laura Mansfield&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2024MS004292&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Subgrid-scale processes, such as atmospheric gravity waves (GWs), play a pivotal role in shaping the Earth&amp;rsquo;s climate but cannot be explicitly resolved in climate models due to limitations on resolution. Instead, subgrid-scale parameterizations are used to capture their effects. Recently, machine learning (ML) has emerged as a promising approach to learn parameterizations. In this study, we explore uncertainties associated with a ML parameterization for atmospheric GWs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>On the importance of learning non-local dynamics for stable data-driven climate modeling: A 1D gravity wave-QBO testbed</title>
+      <link>http://datawaveproject.github.io/publications/papers/pahlavan_qbo/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/pahlavan_qbo/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hamid A. Pahlavan&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;M. Joan Alexander&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2407.05224&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Machine learning (ML) techniques, especially neural networks (NNs), have shown promise in learning subgrid-scale parameterizations for climate models. However, a major problem with data-driven parameterizations, particularly those learned with supervised algorithms, is model instability. Current remedies are often ad-hoc and lack a theoretical foundation. Here, we combine ML theory and climate physics to address a source of instability in NN-based parameterization. We demonstrate the importance of learning spatially non-local dynamics using a 1D model of the quasi-biennial oscillation (QBO) with gravity wave (GW) parameterization as a testbed. While common offline metrics fail to identify shortcomings in learning non-local dynamics, we show that the concept of receptive field (RF) can identify instability a-priori.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Comparison between non-orographic gravity-wave parameterizations used in QBOi models and Strateole 2 constant-level balloons</title>
       <link>http://datawaveproject.github.io/publications/papers/lott_comparison_strateole/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
@@ -143,6 +260,110 @@ Within the project we aim to improve the understanding of relevant multiscale pr
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.1002/qj.4793&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
 &lt;p&gt;Gravity-wave (GW) parameterizations from 12 general circulation models (GCMs) participating in the Quasi-Biennial Oscillation initiative (QBOi) are compared with Strateole 2 balloon observations made in the tropical lower stratosphere from November 2019–February 2020 (phase 1) and from October 2021–January 2022 (phase 2). The parameterizations employ the three standard techniques used in GCMs to represent subgrid-scale non-orographic GWs, namely the two globally spectral techniques developed by Warner and McIntyre (1999) and Hines (1997), as well as the “multiwaves” approaches following the work of Lindzen (1981).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Learning Closed-Form Equations for Subgrid-Scale Closures From High-Fidelity Data: Promises and Challenges</title>
+      <link>http://datawaveproject.github.io/publications/papers/jakhar_equations/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/jakhar_equations/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Karan Jakhar&lt;/strong&gt;&lt;/em&gt;, Yifei Guan, Rambod Mojgani, &lt;em&gt;&lt;strong&gt;Ashesh Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2023MS003874&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;There is growing interest in discovering interpretable, closed-form equations for subgrid-scale (SGS) closures/parameterizations of complex processes in Earth systems. Here, we apply a common equation-discovery technique with expansive libraries to learn closures from filtered direct numerical simulations of 2D turbulence and Rayleigh-Bénard convection (RBC). Across common filters (e.g., Gaussian, box), we robustly discover closures of the same form for momentum and heat fluxes. These closures depend on nonlinear combinations of gradients of filtered variables, with constants that are independent of the fluid/flow properties and only depend on filter type/size. We show that these closures are the nonlinear gradient model (NGM), which is derivable analytically using Taylor-series.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MS-GWaM: A Three-Dimensional Transient Gravity Wave Parametrization for Atmospheric Models</title>
+      <link>http://datawaveproject.github.io/publications/papers/achatz_msgwam/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/achatz_msgwam/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;Georg S. Voelker, Gergely Bölöni, Young-Ha Kim, Günther Zängl, and &lt;em&gt;&lt;strong&gt;Ulrich Achatz&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1175/JAS-D-23-0153.1&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Parameterizations for internal gravity waves in atmospheric models are traditionally subject to a number of simplifications. Most notably, they rely on both neglecting wave propagation and advection in the horizontal direction (single-column assumption) and an instantaneous balance in the vertical direction (steady-state assumption). While these simplifications are well justified to cover some essential dynamic effects and keep the computational effort small, it has been shown that both mechanisms are potentially significant. In particular, the recently introduced Multiscale Gravity Wave Model (MS-GWaM) successfully applied ray-tracing methods in a novel type of transient but columnar internal gravity wave parameterization (MS-GWaM-1D). We extend this concept to a three-dimensional version of the parameterization (MS-GWaM-3D) to simulate subgrid-scale nonorographic internal gravity waves.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Balloon-Observed Gravity Wave Momentum Fluxes Using Machine Learning and Input From ERA5</title>
+      <link>http://datawaveproject.github.io/publications/papers/has_momentum_flux/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/has_momentum_flux/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Sothea Has&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Riwal Plougonven&lt;/strong&gt;&lt;/em&gt;, Aurélie Fischer, &lt;em&gt;&lt;strong&gt;Raj Rani&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Francois Lott&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Albert Hertzog&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Aurélien Podglajen&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Milena Corcos&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2023JD040281&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Global atmospheric models rely on parameterizations to capture the effects of gravity waves (GWs) on middle atmosphere circulation. As they propagate upwards from the troposphere, the momentum fluxes associated with these waves represent a crucial yet insufficiently constrained component. The present study employs three tree-based ensemble machine learning (ML) techniques to probe the relationship between large-scale flow and small-scale GWs within the tropical lower stratosphere.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Recreating Observed Convection-Generated Gravity Waves From Weather Radar Observations via a Neural Network and a Dynamical Atmospheric Model</title>
+      <link>http://datawaveproject.github.io/publications/papers/kruse_convection/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/kruse_convection/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Christopher Kruse&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;J. Alexander&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;M. Bramberger&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;A. Chattopadhyay&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;P. Hassanzadeh&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;B. Green&lt;/strong&gt;&lt;/em&gt;, A. Grimsdell, L. Hoffmann&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2023MS003624&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Convection-generated gravity waves (CGWs) transport momentum and energy, and this momentum is a dominant driver of global features of Earth&amp;rsquo;s atmosphere&amp;rsquo;s general circulation (e.g., the quasi-biennial oscillation, the pole-to-pole mesospheric circulation). As CGWs are not generally resolved by global weather and climate models, their effects on the circulation need to be parameterized. However, quality observations of GWs are spatiotemporally sparse, limiting understanding and preventing constraints on parameterizations. Convection-permitting or -resolving simulations do generate CGWs, but validation is not possible as these simulations cannot reproduce the CGW-forcing convection at correct times, locations, and intensities. Here, realistic convective diabatic heating, learned from full-physics convection-permitting Weather Research and Forecasting simulations, is predicted from weather radar observations using neural networks and a previously developed look-up table.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bayesian History Matching Applied to the Calibration of a Gravity Wave Parameterization</title>
+      <link>http://datawaveproject.github.io/publications/papers/king_bayesian/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/king_bayesian/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Robert King&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Laura Mansfield&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;Aditi Sheshadri&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2023MS004163&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Breaking atmospheric gravity waves (GWs) in the tropical stratosphere are essential in driving the roughly 2-year oscillation of zonal winds in this region known as the Quasi-Biennial Oscillation (QBO). As Global Climate Models (GCM)s are not typically able to directly resolve the spectrum of waves required to drive the QBO, parameterizations are necessary. Such parameterizations often require knowledge of poorly constrained physical parameters. In the case of the spectral gravity parameterization used in this work, these parameters are the total equatorial GW stress and the half width of phase speed distribution Radiosonde observations are used to obtain the period and amplitude of the QBO, which are compared against values obtained from a GCM. We utilize two established calibration techniques to obtain estimates of the range of plausible parameter values: History matching &amp;amp; Ensemble Kalman Inversion (EKI).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The role of inertia-gravity waves in the atmospheric energy spectrum: insights from global storm-resolving simulations</title>
+      <link>http://datawaveproject.github.io/publications/papers/morfa_storm_resolving/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/morfa_storm_resolving/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Yanmichel Morfa Avalos&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hdl.handle.net/21.11116/0000-000E-6EF3-5&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;This dissertation examines the kinetic energy spectra of atmospheric motions, focusing on both horizontal and vertical components using global storm-resolving simulations. Horizontal kinetic energy follows canonical power laws, with a steep 𝜅−3 decline at synoptic scales (∼10,000–1,000 km) driven by quasigeostrophic turbulence, and a shallower 𝜅−5/3 regime at mesoscales (&amp;lt;600 km), though the origins of this mesoscale spectrum remain debated. Vertical kinetic energy spectra, less studied due to measurement challenges, exhibit nearly white spectra with peaks at synoptic and mesoscale ranges, attributed primarily to inertia-gravity wave (IGW) fluctuations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Overcoming set imbalance in data driven parameterization: A case study of gravity wave momentum transport</title>
+      <link>http://datawaveproject.github.io/publications/papers/yang_set_imbalance/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/yang_set_imbalance/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;L. Minah Yang&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;Edwin P. Gerber&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2402.18030&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Machine learning for the parameterization of subgrid-scale processes in climate models has been widely researched and adopted in a few models. A key challenge in developing data-driven parameterization schemes is how to properly represent rare, but important events that occur in geoscience datasets. We investigate and develop strategies to reduce errors caused by insufficient sampling in the rare data regime, under constraints of no new data and no further expansion of model complexity. Resampling and importance weighting strategies are constructed with user defined parameters that systematically vary the sampling/weighting rates in a linear fashion and curb too much oversampling.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Explainable Offline-Online Training of Neural Networks for Parameterizations: A 1D Gravity Wave-QBO Testbed in the Small-Data Regime</title>
+      <link>http://datawaveproject.github.io/publications/papers/pahlavan_qbo1/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/pahlavan_qbo1/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Hamid A. Pahlavan&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Pedram Hassanzadeh&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;M. Joan Alexander&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2023GL106324&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;There are different strategies for training neural networks (NNs) as subgrid-scale parameterizations. Here, we use a 1D model of the quasi-biennial oscillation (QBO) and gravity wave (GW) parameterizations as testbeds. A 12-layer convolutional NN that predicts GW forcings for given wind profiles, when trained offline in a big-data regime (100-year), produces realistic QBOs once coupled to the 1D model.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -221,6 +442,19 @@ Within the project we aim to improve the understanding of relevant multiscale pr
 &lt;p&gt;&lt;a href=&#34;https://doi.org/10.1029/2022MS003585&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
 &lt;p&gt;Atmospheric gravity waves (GWs) span a broad range of length scales. As a result, the unresolved and under-resolved GWs have to be represented using a sub-grid scale (SGS) parameterization in general circulation models (GCMs). In recent years, machine learning (ML) techniques have emerged as novel methods for SGS modeling of climate processes. In the widely used approach of supervised (offline) learning, the true representation of the SGS terms have to be properly extracted from high-fidelity data (e.g., GW-resolving simulations). However, this is a non-trivial task, and the quality of the ML-based parameterization significantly hinges on the quality of these SGS terms. Here, we compare three methods to extract 3D GW fluxes and the resulting drag (Gravity Wave Drag [GWD]) from high-resolution simulations: Helmholtz decomposition, and spatial filtering to compute the Reynolds stress and the full SGS stress.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The graft-versus-host problem for data-driven gravity-wave parameterizations in a one-dimensional quasibiennial oscillation model</title>
+      <link>http://datawaveproject.github.io/publications/papers/shamir_qbo/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://datawaveproject.github.io/publications/papers/shamir_qbo/</guid>
+      <description>&lt;h2 id=&#34;authors&#34;&gt;Authors:&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Ofer Shamir&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;David Connelly&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;Steven Hardiman&lt;/strong&gt;&lt;/em&gt;, Zihan Shao, &lt;em&gt;&lt;strong&gt;L. Minah Yang&lt;/strong&gt;&lt;/em&gt;, and &lt;em&gt;&lt;strong&gt;Edwin P. Gerber&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1002/qj.4707&#34;&gt;Read the full paper here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract:&lt;/h2&gt;
+&lt;p&gt;Two key challenges in the development of data-driven gravity-wave parameterizations are generalization, how to ensure that a data-driven scheme trained on the present-day climate will continue to work in a new climate regime, and calibration, how to account for biases in the “host” climate model. Both problems depend fundamentally on the response to out-of-sample inputs compared with the training dataset, and are often conflicting. The ability to generalize to new climate regimes often goes hand in hand with sensitivity to model biases. To probe these challenges, we employ a one-dimensional (1D) quasibiennial oscillation (QBO) model with a stochastic source term that represents convectively generated gravity waves in the Tropics with randomly varying strengths and spectra.&lt;/p&gt;</description>
     </item>
     
     <item>
