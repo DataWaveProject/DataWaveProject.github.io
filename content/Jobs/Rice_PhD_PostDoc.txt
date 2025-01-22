@@ -1,4 +1,6 @@
----
+*** Currently, this job posting is archived. Make this document .md again instead of .txt to re-publish this job posting. Then delete this comment ***
+
+--
 title: "PhD / PostDoc / Research Assistant Positions at Rice University"
 date: 2023-11-15
 featured: true
