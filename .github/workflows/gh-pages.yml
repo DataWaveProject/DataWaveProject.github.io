@@ -9,10 +9,6 @@ on:
   push:
     branches: [ master ]
 
-#env:
-HUGO_ENV: production
-#HUGO_ENV="production"
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "deploy"
@@ -36,6 +32,12 @@ jobs:
       uses: peaceiris/actions-hugo@v3
       with:
           hugo-version: '0.119.0'
+
+    # Step 2.5 - Create environment as production
+    - name: Build with Hugo
+      run: |
+        hugo \
+          --environment production
 
     # Step 3 - Clean and don't fail
     - name: Clean public directory
