@@ -239,6 +239,36 @@ description: "Meet the Team"
     institute="Goethe-Universität Frankfurt"
     workdesc="Generating high-resolution OGW-resolving simulation results, performance benchmarked against MS-GWaM" >}}
 
+<!--  Nolan Reilly -->
+{{< Profile_Creator  
+  imgpath="/images/team/Nolan_Reilly.jpg"
+  name="Nolan Reilly"
+  title="PhD Student"
+  role=" Advised by Dr. Ed Gerber "
+  website="https://caos.cims.nyu.edu/dynamic/people/phd-students/"
+  institute=" NYU "
+  workdesc=" " >}}
+
+<!--  Katy Rucker -->
+{{< Profile_Creator  
+  imgpath="/images/team/Katy_Rucker.jpg"
+  name="Katy Rucker"
+  title="PhD Student"
+  role="Advised by Dr. Pedram Hassanzadeh"
+  website="https://geosci.uchicago.edu/people/katherine-rucker/"
+  institute=" UChicago "
+  workdesc=" " >}}
+
+<!--  Lichuan Xu -->
+{{< Profile_Creator  
+  imgpath="/images/team/Lichuan_Xu.jpg"
+  name="Lichuan Xu"
+  title="PhD Student"
+  role="Advised by Dr. Pedram Hassanzadeh"
+  website="https://geosci.uchicago.edu/people/lichuan-xu/"
+  institute=" UChicago "
+  workdesc="Reduced-order analysis of turbulent flow with neural network " >}}
+
 {{</ ProfileRegion >}}
 
 # Collaborators
@@ -254,16 +284,6 @@ description: "Meet the Team"
   website="https://www.nwra.com/people/371/"
   institute="NorthWest Research Associates"
   workdesc="WRF simulations validation with the Stratéole-2 balloons" >}}
-
-<!--  Nolan Reilly -->
-{{< Profile_Creator  
-  imgpath="/images/team/Nolan_Reilly.jpg"
-  name="Nolan Reilly"
-  title="PhD Student"
-  role="  "
-  website="https://caos.cims.nyu.edu/dynamic/people/phd-students/"
-  institute=" NYU "
-  workdesc=" " >}}
 
 <!--  Annelize van Niekerk  -->
 {{< Profile_Creator  
